@@ -1,2 +1,2 @@
 # lotr-wiki
-Scripts, templates and other code for LOTR wiki
+Scripts, templates and other codes for the [italian LOTR wiki](https://lotr.fandom.com/it) on Fandom.

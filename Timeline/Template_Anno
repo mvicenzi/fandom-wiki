@@ -1,0 +1,23 @@
+<includeonly>
+<div class="navbox_content" style="width:100%; text-align:center;">
+<!-------------------------------------------- TITOLO ------------------------>
+<div class="navbox_title" style="width:100%; text-align:center;">
+'''{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|PE|[[Prima Era|Prima Era del Sole]]}}{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|SE|[[Seconda Era|Seconda Era del Sole]]}}{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|TE|[[Terza Era|Terza Era del Sole]]}}{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|QE|[[Quarta Era|Quarta Era del Sole]]}}{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|CC|[[Calendario della Contea]]}}{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|AA|[[Anni degli Alberi]]}}'''</div>
+<!-- sottititolo "conosciuto anche come" --><!--
+CASO TE e CC -->{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|TE|{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}>1600|<div style="border-bottom: 1px solid; width:100%; text-align:center">''conosciuto anche come CC {{#expr:{{#explode:{{PAGENAME}}| |1}}-1600|}}''{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}>3021|&nbsp;- ''conosciuto anche come [[QE {{#expr:{{#explode:{{PAGENAME}}| |1}}-3021|}}|Quarta Era {{#expr:{{#explode:{{PAGENAME}}| |1}}-3021|}}]]''}}</div>}}}}<!--
+CASO QE e CC -->{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|QE|<div style="border-bottom: 1px solid; width:100%; text-align:center;">''conosciuto anche come CC {{#expr:{{#explode:{{PAGENAME}}| |1}}+1421|}}''{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}=1|&nbsp;- ''conosciuto anche come [[TE 3021|Terza Era 3021]]''}}</div>}}<!--
+CASO CC e TE -->{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|CC|<div style="border-bottom: 1px solid; width:100%; text-align:center;">{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}<1423|''conosciuto anche come [[TE {{#expr:{{#explode:{{PAGENAME}}| |1}}+1600|}}|Terza Era {{#expr:{{#explode:{{PAGENAME}}| |1}}+1600}}]]''}}{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}=1421|&nbsp;-&nbsp;}}{{#ifexpr:{{#explode:{{PAGENAME}}| |1}}>1421|''conosciuto anche come [[QE {{#expr:{{#explode:{{PAGENAME}}| |1}}-1421|}}|Quarta Era {{#expr:{{#explode:{{PAGENAME}}| |1}}-1421}}]]''}}</div>}}<!--
+CASI SE 3441 e TE 1 -->{{#ifeq:{{PAGENAME}}|SE 3441|<div style="border-bottom: 1px solid; width:100%; text-align:center">''conosciuto anche come [[TE 1]]''</div>}}{{#ifeq:{{PAGENAME}}|TE 1|<div style="border-bottom: 1px solid; width:100%; text-align:center;">''conosciuto anche come [[SE 3441]]''</div>}}<!--
+CASI AA 1500 e PE 1 -->{{#ifeq:{{PAGENAME}}|AA 1500|<div style="border-bottom: 1px solid; width:100%; text-align:center;">''conosciuto anche come [[PE 1]]''</div>}}{{#ifeq:{{PAGENAME}}|PE 1|<div style="border-bottom: 1px solid; width:100%; text-align:center;">''conosciuto anche come [[AA 1500]]''</div>}}
+<!--- CODICE per i 5 ANNI precendenti e successivi
+---><div style="padding: 5px;">{{#invoke:Anno|getTimeline|{{PAGENAME}}}}</div>
+<!---CHIUSURA ERE -->
+<div class="navbox_title" style="width:100%; text-align:center; margin: 0px">[[Anni degli Alberi]] - [[Prima Era]] - [[Seconda Era]] - [[Terza Era]] - [[Quarta Era]] - [[Calendario della Contea]]</div></div>
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|AA|[[Categoria:Anni degli Alberi|AA {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|PE|[[Categoria:Prima Era|PE {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|SE|[[Categoria:Seconda Era|SE {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|TE|[[Categoria:Terza Era|TE {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|QE|[[Categoria:Quarta Era|QE {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+{{#ifeq:{{#explode:{{PAGENAME}}| |0}}|CC|[[Categoria:Calendario della Contea|CC {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]}}
+[[Categoria:Anni|{{#explode:{{PAGENAME}}| |0}} {{padleft:{{#explode:{{PAGENAME}}| |1}}|6|0}}]]
+</includeonly>
