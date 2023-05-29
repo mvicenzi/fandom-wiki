@@ -4,12 +4,7 @@
 -- using the native MediaWiki #ifexists function, which causes non-existing pages
 -- to be reported as red links flooding maintenance catgories.
 
--- The list of valid years is read from "Module:Anno/data" and must be maintained
--- manually: this can be done easily as years with canonical events are well
--- known and can be listed once and for all.
 local p = {}
-local years = mw.loadData("Module:Anno/data")
-
 -------------------------------------------------------------------------------
 
 -- This function parses the argument, which is assumed to be the title of the
@@ -22,19 +17,38 @@ local function parse_title(frame)
 	return t
 end
 
--- This function finds the 5 previous/following years to be displayed, starting from
--- the parsed page title. Note: the dictionary is set up to avoid long loops to
--- find the starting year.
-local function find_years(age, year)
-
-	local selected_years = {}
-	if (age == "TE") then selected_years = years.TE
-	elseif ( age == "SE") then selected_years = years.SE
-	elseif ( age == "PE") then selected_years = years.PE
-	elseif ( age == "QE") then selected_years = years.QE
-	elseif ( age == "AA") then selected_years = years.AA
+-- This functions uses the DPL3 extension to fetch a sorted list of years
+-- from the corresponding category, thus being self-maintaining and also
+-- reflecting the current contents of the category. The order is based on
+-- the category sort keys, which MUST correspond to chronological order.
+local function get_list(frame, age)
+	local dpl = {}
+	if (age == "PE") then
+		dpl = frame:preprocess("{{#dpl:category=Prima_Era|mode=inline|inlinetext=~|allowcachedresults=true|ordermethod=sortkey|skipthispage=no}}")
+	elseif (age == "SE") then
+		dpl = frame:preprocess("{{#dpl:category=Seconda_Era|mode=inline|inlinetext=~|allowcachedresults=true|ordermethod=sortkey|skipthispage=no}}")
+	elseif (age == "TE") then
+		dpl = frame:preprocess("{{#dpl:category=Terza_Era|mode=inline|inlinetext=~|allowcachedresults=true|ordermethod=sortkey|skipthispage=no}}")
+	elseif (age == "QE") then
+		dpl = frame:preprocess("{{#dpl:category=Quarta_Era|mode=inline|inlinetext=~|allowcachedresults=true|ordermethod=sortkey|skipthispage=no}}")
+	elseif (age == "AA") then
+		dpl = frame:preprocess("{{#dpl:category=Anni_degli_Alberi|mode=inline|inlinetext=~|allowcachedresults=true|ordermethod=sortkey|skipthispage=no}}")
 	end
+    local splitText = mw.text.split(dpl, '~', true)
+    local result = {}
+    for i, item in ipairs(splitText) do
+    	local s = mw.text.split(item, ' ', true)
+    	s = mw.text.split(s[2], "|", true)
+    	result[i] = tonumber(s[1])
+    end
+    return result
+end
 
+-- This function finds the 5 previous/following years to be displayed, starting from
+-- the parsed page title. The list of available years is fetched using DPL3
+local function find_years(frame, age, year)
+
+	local selected_years = get_list(frame, age)
 	local prev = {}
 	local succ = {}
 	for index, yr in ipairs(selected_years) do
@@ -43,7 +57,7 @@ local function find_years(age, year)
 				if(selected_years[index-i]) then
 				prev[i] = selected_years[index-i]
 				end
-				if( selected_years[index+1]) then
+				if( selected_years[index+i]) then
 				succ[i] = selected_years[index+i]
 				end
 			end
@@ -71,7 +85,7 @@ function p.getTimeline(frame)
 	local age = title["age"]
 	local year = tonumber(title["year"])
 
-	local prev, succ = find_years(age, year)
+	local prev, succ = find_years(frame, age, year)
 	local sprev = table.getn(prev)
 	local ssucc = table.getn(succ)
 
