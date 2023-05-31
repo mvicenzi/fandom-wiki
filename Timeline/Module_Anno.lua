@@ -2,7 +2,7 @@
 -- This module is used by Template:Anno to display the existing 5 years
 -- coming before and after the current year. This implementation avoids
 -- using the native MediaWiki #ifexists function, which causes non-existing pages
--- to be reported as red links flooding maintenance catgories.
+-- to be reported as red links flooding maintenance categories.
 
 local p = {}
 -------------------------------------------------------------------------------
