@@ -1,0 +1,51 @@
+/* CODICE CSS PER LA SKIN FANDOMMOBILE */
+
+/* Family tree */
+.article-table-wrapper table.familytree tr, .article-table-wrapper table.familytree tr > td {
+  border: unset;
+  padding: 0;
+}
+
+.article-table-wrapper table.familytree .family-tree-table-cell {
+  margin: 0;
+}
+
+.article-table-wrapper table.familytree .family-tree-line-dashed-right {
+  border-right: 1px dashed #8B4513;
+}
+
+.article-table-wrapper table.familytree .family-tree-line-dashed-bottom {
+  border-bottom: 1px dashed #8B4513;
+}
+
+.article-table-wrapper table.familytree .family-tree-line-solid-right {
+  border-right: 1px solid #8B4513;
+}
+
+.article-table-wrapper table.familytree .family-tree-line-solid-bottom {
+  border-bottom: 1px solid #8B4513;
+}
+
+.article-table-wrapper table.familytree tr > td.family-tree-element {
+  vertical-align: middle;
+  padding: 0.2em;
+  text-align: center;
+}
+
+/* fix for broken vertical line in familytree */
+.article-table-wrapper .familytree, .article-table-wrapper table.family-tree-line-table {
+    height: 100%;
+}
+
+/* theme variables are not the same on FandomMobile
+   manually copying color codes for now */
+.theme-fandommobile-light .article-table-wrapper table.familytree tr > td.family-tree-element {
+  background-color: #d7d3bc;
+  border: 1px solid #b6b3a1;
+  box-shadow: 0px 2px 5px #b6b3a1;
+}
+.theme-fandommobile-dark .article-table-wrapper table.familytree tr > td.family-tree-element {
+  background-color: #0c0c0c;
+  border: 1px solid #3a3a3a;
+  box-shadow: 0px 2px 5px #3a3a3a;
+}

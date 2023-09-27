@@ -1,0 +1,41 @@
+<includeonly>
+{{#ifexpr: {{#len:{{{1}}}}} <= 1 |
+<!-- -->{{#ifeq: {{{1}}}|_|</tr><tr>|
+<!-- --><td class="family-tree-table-cell">
+<!--    --><table class="family-tree-line-table"><tr>
+<!--       --><td class="family-tree-line
+<!--          -->{{#switch: {{{1}}} <!-- top line -->
+<!--             -->|)|+|(|`|^|'|!=family-tree-line-solid-right
+<!--             -->|D|%|C|L|A|J|:=family-tree-line-dashed-right
+<!--             -->|]|#|[|c|h|j|!=family-tree-line-solid-right
+<!--             -->|}|*|{|b|t|d|:=family-tree-line-dashed-right
+<!--          -->|}}
+<!--          -->{{#switch: {{{1}}} <!-- left line -->
+<!--             -->|v|.|+|(|^|'|-=family-tree-line-solid-bottom
+<!--             -->|V|7|%|C|A|J|~=family-tree-line-dashed-bottom
+<!--             -->|y|n|#|[|h|j|~=family-tree-line-dashed-bottom
+<!--             -->|u|q|*|{|t|d|-=family-tree-line-solid-bottom
+<!--          -->|}}">&nbsp;</td>
+<!--       --><td class="family-tree-line
+<!--          -->{{#switch: {{{1}}} <!-- right line -->
+<!--             -->|,|v|)|+|`|^|-=family-tree-line-solid-bottom
+<!--             -->|F|V|D|%|L|A|~=family-tree-line-dashed-bottom
+<!--             -->|r|y|]|#|c|h|~=family-tree-line-dashed-bottom
+<!--             -->|p|u|}|*|b|t|-=family-tree-line-solid-bottom
+<!--          -->|}}">&nbsp;</td>
+<!--       --></tr><tr>
+<!--       --><td class="family-tree-line
+<!--          -->{{#switch: {{{1}}} <!-- bottom line -->
+<!--             -->|,|v|.|)|(|+|!=family-tree-line-solid-right
+<!--             -->|F|V|7|D|C|%|:=family-tree-line-dashed-right
+<!--             -->|r|y|n|]|[|#|!=family-tree-line-solid-right
+<!--             -->|p|u|q|}|{|*|:=family-tree-line-dashed-right
+<!--          -->|}}">&nbsp;</td>
+<!--       --><td class="family-tree-line">&nbsp;</td>
+<!--    --></tr></table>
+<!-- --></td>
+<!-- -->}}
+| <!-- multi-character params -->
+<!-- --><td class="family-tree-element" colspan="3">{{{1}}}</td>
+}}
+</includeonly>

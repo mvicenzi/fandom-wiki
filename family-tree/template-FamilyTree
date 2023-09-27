@@ -1,0 +1,912 @@
+<includeonly>
+<table class="familytree" style="border-spacing:0; line-height:100%; color:#111c1c;"><tr>
+{{#ifeq: {{{1|x}}}|{{{1|y}}}|{{Template:Familytree/element|{{{1}}}}}}}<!--
+-->{{#ifeq: {{{2|x}}}|{{{2|y}}}|{{Template:Familytree/element|{{{2}}}}}}}<!--
+-->{{#ifeq: {{{3|x}}}|{{{3|y}}}|{{Template:Familytree/element|{{{3}}}}}}}<!--
+-->{{#ifeq: {{{4|x}}}|{{{4|y}}}|{{Template:Familytree/element|{{{4}}}}}}}<!--
+-->{{#ifeq: {{{5|x}}}|{{{5|y}}}|{{Template:Familytree/element|{{{5}}}}}}}<!--
+-->{{#ifeq: {{{6|x}}}|{{{6|y}}}|{{Template:Familytree/element|{{{6}}}}}}}<!--
+-->{{#ifeq: {{{7|x}}}|{{{7|y}}}|{{Template:Familytree/element|{{{7}}}}}}}<!--
+-->{{#ifeq: {{{8|x}}}|{{{8|y}}}|{{Template:Familytree/element|{{{8}}}}}}}<!--
+-->{{#ifeq: {{{9|x}}}|{{{9|y}}}|{{Template:Familytree/element|{{{9}}}}}}}<!--
+-->{{#ifeq: {{{10|x}}}|{{{10|y}}}|{{Template:Familytree/element|{{{10}}}}}}}<!--
+-->{{#ifeq: {{{11|x}}}|{{{11|y}}}|{{Template:Familytree/element|{{{11}}}}}}}<!--
+-->{{#ifeq: {{{12|x}}}|{{{12|y}}}|{{Template:Familytree/element|{{{12}}}}}}}<!--
+-->{{#ifeq: {{{13|x}}}|{{{13|y}}}|{{Template:Familytree/element|{{{13}}}}}}}<!--
+-->{{#ifeq: {{{14|x}}}|{{{14|y}}}|{{Template:Familytree/element|{{{14}}}}}}}<!--
+-->{{#ifeq: {{{15|x}}}|{{{15|y}}}|{{Template:Familytree/element|{{{15}}}}}}}<!--
+-->{{#ifeq: {{{16|x}}}|{{{16|y}}}|{{Template:Familytree/element|{{{16}}}}}}}<!--
+-->{{#ifeq: {{{17|x}}}|{{{17|y}}}|{{Template:Familytree/element|{{{17}}}}}}}<!--
+-->{{#ifeq: {{{18|x}}}|{{{18|y}}}|{{Template:Familytree/element|{{{18}}}}}}}<!--
+-->{{#ifeq: {{{19|x}}}|{{{19|y}}}|{{Template:Familytree/element|{{{19}}}}}}}<!--
+-->{{#ifeq: {{{20|x}}}|{{{20|y}}}|{{Template:Familytree/element|{{{20}}}}}}}<!--
+-->{{#ifeq: {{{21|x}}}|{{{21|y}}}|{{Template:Familytree/element|{{{21}}}}}}}<!--
+-->{{#ifeq: {{{22|x}}}|{{{22|y}}}|{{Template:Familytree/element|{{{22}}}}}}}<!--
+-->{{#ifeq: {{{23|x}}}|{{{23|y}}}|{{Template:Familytree/element|{{{23}}}}}}}<!--
+-->{{#ifeq: {{{24|x}}}|{{{24|y}}}|{{Template:Familytree/element|{{{24}}}}}}}<!--
+-->{{#ifeq: {{{25|x}}}|{{{25|y}}}|{{Template:Familytree/element|{{{25}}}}}}}<!--
+-->{{#ifeq: {{{26|x}}}|{{{26|y}}}|{{Template:Familytree/element|{{{26}}}}}}}<!--
+-->{{#ifeq: {{{27|x}}}|{{{27|y}}}|{{Template:Familytree/element|{{{27}}}}}}}<!--
+-->{{#ifeq: {{{28|x}}}|{{{28|y}}}|{{Template:Familytree/element|{{{28}}}}}}}<!--
+-->{{#ifeq: {{{29|x}}}|{{{29|y}}}|{{Template:Familytree/element|{{{29}}}}}}}<!--
+-->{{#ifeq: {{{30|x}}}|{{{30|y}}}|{{Template:Familytree/element|{{{30}}}}}}}<!--
+-->{{#ifeq: {{{31|x}}}|{{{31|y}}}|{{Template:Familytree/element|{{{31}}}}}}}<!--
+-->{{#ifeq: {{{32|x}}}|{{{32|y}}}|{{Template:Familytree/element|{{{32}}}}}}}<!--
+-->{{#ifeq: {{{33|x}}}|{{{33|y}}}|{{Template:Familytree/element|{{{33}}}}}}}<!--
+-->{{#ifeq: {{{34|x}}}|{{{34|y}}}|{{Template:Familytree/element|{{{34}}}}}}}<!--
+-->{{#ifeq: {{{35|x}}}|{{{35|y}}}|{{Template:Familytree/element|{{{35}}}}}}}<!--
+-->{{#ifeq: {{{36|x}}}|{{{36|y}}}|{{Template:Familytree/element|{{{36}}}}}}}<!--
+-->{{#ifeq: {{{37|x}}}|{{{37|y}}}|{{Template:Familytree/element|{{{37}}}}}}}<!--
+-->{{#ifeq: {{{38|x}}}|{{{38|y}}}|{{Template:Familytree/element|{{{38}}}}}}}<!--
+-->{{#ifeq: {{{39|x}}}|{{{39|y}}}|{{Template:Familytree/element|{{{39}}}}}}}<!--
+-->{{#ifeq: {{{40|x}}}|{{{40|y}}}|{{Template:Familytree/element|{{{40}}}}}}}<!--
+-->{{#ifeq: {{{41|x}}}|{{{41|y}}}|{{Template:Familytree/element|{{{41}}}}}}}<!--
+-->{{#ifeq: {{{42|x}}}|{{{42|y}}}|{{Template:Familytree/element|{{{42}}}}}}}<!--
+-->{{#ifeq: {{{43|x}}}|{{{43|y}}}|{{Template:Familytree/element|{{{43}}}}}}}<!--
+-->{{#ifeq: {{{44|x}}}|{{{44|y}}}|{{Template:Familytree/element|{{{44}}}}}}}<!--
+-->{{#ifeq: {{{45|x}}}|{{{45|y}}}|{{Template:Familytree/element|{{{45}}}}}}}<!--
+-->{{#ifeq: {{{46|x}}}|{{{46|y}}}|{{Template:Familytree/element|{{{46}}}}}}}<!--
+-->{{#ifeq: {{{47|x}}}|{{{47|y}}}|{{Template:Familytree/element|{{{47}}}}}}}<!--
+-->{{#ifeq: {{{48|x}}}|{{{48|y}}}|{{Template:Familytree/element|{{{48}}}}}}}<!--
+-->{{#ifeq: {{{49|x}}}|{{{49|y}}}|{{Template:Familytree/element|{{{49}}}}}}}<!--
+-->{{#ifeq: {{{50|x}}}|{{{50|y}}}|{{Template:Familytree/element|{{{50}}}}}}}<!--
+-->{{#ifeq: {{{51|x}}}|{{{51|y}}}|{{Template:Familytree/element|{{{51}}}}}}}<!--
+-->{{#ifeq: {{{52|x}}}|{{{52|y}}}|{{Template:Familytree/element|{{{52}}}}}}}<!--
+-->{{#ifeq: {{{53|x}}}|{{{53|y}}}|{{Template:Familytree/element|{{{53}}}}}}}<!--
+-->{{#ifeq: {{{54|x}}}|{{{54|y}}}|{{Template:Familytree/element|{{{54}}}}}}}<!--
+-->{{#ifeq: {{{55|x}}}|{{{55|y}}}|{{Template:Familytree/element|{{{55}}}}}}}<!--
+-->{{#ifeq: {{{56|x}}}|{{{56|y}}}|{{Template:Familytree/element|{{{56}}}}}}}<!--
+-->{{#ifeq: {{{57|x}}}|{{{57|y}}}|{{Template:Familytree/element|{{{57}}}}}}}<!--
+-->{{#ifeq: {{{58|x}}}|{{{58|y}}}|{{Template:Familytree/element|{{{58}}}}}}}<!--
+-->{{#ifeq: {{{59|x}}}|{{{59|y}}}|{{Template:Familytree/element|{{{59}}}}}}}<!--
+-->{{#ifeq: {{{60|x}}}|{{{60|y}}}|{{Template:Familytree/element|{{{60}}}}}}}<!--
+-->{{#ifeq: {{{61|x}}}|{{{61|y}}}|{{Template:Familytree/element|{{{61}}}}}}}<!--
+-->{{#ifeq: {{{62|x}}}|{{{62|y}}}|{{Template:Familytree/element|{{{62}}}}}}}<!--
+-->{{#ifeq: {{{63|x}}}|{{{63|y}}}|{{Template:Familytree/element|{{{63}}}}}}}<!--
+-->{{#ifeq: {{{64|x}}}|{{{64|y}}}|{{Template:Familytree/element|{{{64}}}}}}}<!--
+-->{{#ifeq: {{{65|x}}}|{{{65|y}}}|{{Template:Familytree/element|{{{65}}}}}}}<!--
+-->{{#ifeq: {{{66|x}}}|{{{66|y}}}|{{Template:Familytree/element|{{{66}}}}}}}<!--
+-->{{#ifeq: {{{67|x}}}|{{{67|y}}}|{{Template:Familytree/element|{{{67}}}}}}}<!--
+-->{{#ifeq: {{{68|x}}}|{{{68|y}}}|{{Template:Familytree/element|{{{68}}}}}}}<!--
+-->{{#ifeq: {{{69|x}}}|{{{69|y}}}|{{Template:Familytree/element|{{{69}}}}}}}<!--
+-->{{#ifeq: {{{70|x}}}|{{{70|y}}}|{{Template:Familytree/element|{{{70}}}}}}}<!--
+-->{{#ifeq: {{{71|x}}}|{{{71|y}}}|{{Template:Familytree/element|{{{71}}}}}}}<!--
+-->{{#ifeq: {{{72|x}}}|{{{72|y}}}|{{Template:Familytree/element|{{{72}}}}}}}<!--
+-->{{#ifeq: {{{73|x}}}|{{{73|y}}}|{{Template:Familytree/element|{{{73}}}}}}}<!--
+-->{{#ifeq: {{{74|x}}}|{{{74|y}}}|{{Template:Familytree/element|{{{74}}}}}}}<!--
+-->{{#ifeq: {{{75|x}}}|{{{75|y}}}|{{Template:Familytree/element|{{{75}}}}}}}<!--
+-->{{#ifeq: {{{76|x}}}|{{{76|y}}}|{{Template:Familytree/element|{{{76}}}}}}}<!--
+-->{{#ifeq: {{{77|x}}}|{{{77|y}}}|{{Template:Familytree/element|{{{77}}}}}}}<!--
+-->{{#ifeq: {{{78|x}}}|{{{78|y}}}|{{Template:Familytree/element|{{{78}}}}}}}<!--
+-->{{#ifeq: {{{79|x}}}|{{{79|y}}}|{{Template:Familytree/element|{{{79}}}}}}}<!--
+-->{{#ifeq: {{{80|x}}}|{{{80|y}}}|{{Template:Familytree/element|{{{80}}}}}}}<!--
+-->{{#ifeq: {{{81|x}}}|{{{81|y}}}|{{Template:Familytree/element|{{{81}}}}}}}<!--
+-->{{#ifeq: {{{82|x}}}|{{{82|y}}}|{{Template:Familytree/element|{{{82}}}}}}}<!--
+-->{{#ifeq: {{{83|x}}}|{{{83|y}}}|{{Template:Familytree/element|{{{83}}}}}}}<!--
+-->{{#ifeq: {{{84|x}}}|{{{84|y}}}|{{Template:Familytree/element|{{{84}}}}}}}<!--
+-->{{#ifeq: {{{85|x}}}|{{{85|y}}}|{{Template:Familytree/element|{{{85}}}}}}}<!--
+-->{{#ifeq: {{{86|x}}}|{{{86|y}}}|{{Template:Familytree/element|{{{86}}}}}}}<!--
+-->{{#ifeq: {{{87|x}}}|{{{87|y}}}|{{Template:Familytree/element|{{{87}}}}}}}<!--
+-->{{#ifeq: {{{88|x}}}|{{{88|y}}}|{{Template:Familytree/element|{{{88}}}}}}}<!--
+-->{{#ifeq: {{{89|x}}}|{{{89|y}}}|{{Template:Familytree/element|{{{89}}}}}}}<!--
+-->{{#ifeq: {{{90|x}}}|{{{90|y}}}|{{Template:Familytree/element|{{{90}}}}}}}<!--
+-->{{#ifeq: {{{91|x}}}|{{{91|y}}}|{{Template:Familytree/element|{{{91}}}}}}}<!--
+-->{{#ifeq: {{{92|x}}}|{{{92|y}}}|{{Template:Familytree/element|{{{92}}}}}}}<!--
+-->{{#ifeq: {{{93|x}}}|{{{93|y}}}|{{Template:Familytree/element|{{{93}}}}}}}<!--
+-->{{#ifeq: {{{94|x}}}|{{{94|y}}}|{{Template:Familytree/element|{{{94}}}}}}}<!--
+-->{{#ifeq: {{{95|x}}}|{{{95|y}}}|{{Template:Familytree/element|{{{95}}}}}}}<!--
+-->{{#ifeq: {{{96|x}}}|{{{96|y}}}|{{Template:Familytree/element|{{{96}}}}}}}<!--
+-->{{#ifeq: {{{97|x}}}|{{{97|y}}}|{{Template:Familytree/element|{{{97}}}}}}}<!--
+-->{{#ifeq: {{{98|x}}}|{{{98|y}}}|{{Template:Familytree/element|{{{98}}}}}}}<!--
+-->{{#ifeq: {{{99|x}}}|{{{99|y}}}|{{Template:Familytree/element|{{{99}}}}}}}<!--
+-->{{#ifeq: {{{100|x}}}|{{{100|y}}}|{{Template:Familytree/element|{{{100}}}}}}}<!--
+-->{{#ifeq: {{{101|x}}}|{{{101|y}}}|{{Template:Familytree/element|{{{101}}}}}}}<!--
+-->{{#ifeq: {{{102|x}}}|{{{102|y}}}|{{Template:Familytree/element|{{{102}}}}}}}<!--
+-->{{#ifeq: {{{103|x}}}|{{{103|y}}}|{{Template:Familytree/element|{{{103}}}}}}}<!--
+-->{{#ifeq: {{{104|x}}}|{{{104|y}}}|{{Template:Familytree/element|{{{104}}}}}}}<!--
+-->{{#ifeq: {{{105|x}}}|{{{105|y}}}|{{Template:Familytree/element|{{{105}}}}}}}<!--
+-->{{#ifeq: {{{106|x}}}|{{{106|y}}}|{{Template:Familytree/element|{{{106}}}}}}}<!--
+-->{{#ifeq: {{{107|x}}}|{{{107|y}}}|{{Template:Familytree/element|{{{107}}}}}}}<!--
+-->{{#ifeq: {{{108|x}}}|{{{108|y}}}|{{Template:Familytree/element|{{{108}}}}}}}<!--
+-->{{#ifeq: {{{109|x}}}|{{{109|y}}}|{{Template:Familytree/element|{{{109}}}}}}}<!--
+-->{{#ifeq: {{{110|x}}}|{{{110|y}}}|{{Template:Familytree/element|{{{110}}}}}}}<!--
+-->{{#ifeq: {{{111|x}}}|{{{111|y}}}|{{Template:Familytree/element|{{{111}}}}}}}<!--
+-->{{#ifeq: {{{112|x}}}|{{{112|y}}}|{{Template:Familytree/element|{{{112}}}}}}}<!--
+-->{{#ifeq: {{{113|x}}}|{{{113|y}}}|{{Template:Familytree/element|{{{113}}}}}}}<!--
+-->{{#ifeq: {{{114|x}}}|{{{114|y}}}|{{Template:Familytree/element|{{{114}}}}}}}<!--
+-->{{#ifeq: {{{115|x}}}|{{{115|y}}}|{{Template:Familytree/element|{{{115}}}}}}}<!--
+-->{{#ifeq: {{{116|x}}}|{{{116|y}}}|{{Template:Familytree/element|{{{116}}}}}}}<!--
+-->{{#ifeq: {{{117|x}}}|{{{117|y}}}|{{Template:Familytree/element|{{{117}}}}}}}<!--
+-->{{#ifeq: {{{118|x}}}|{{{118|y}}}|{{Template:Familytree/element|{{{118}}}}}}}<!--
+-->{{#ifeq: {{{119|x}}}|{{{119|y}}}|{{Template:Familytree/element|{{{119}}}}}}}<!--
+-->{{#ifeq: {{{120|x}}}|{{{120|y}}}|{{Template:Familytree/element|{{{120}}}}}}}<!--
+-->{{#ifeq: {{{121|x}}}|{{{121|y}}}|{{Template:Familytree/element|{{{121}}}}}}}<!--
+-->{{#ifeq: {{{122|x}}}|{{{122|y}}}|{{Template:Familytree/element|{{{122}}}}}}}<!--
+-->{{#ifeq: {{{123|x}}}|{{{123|y}}}|{{Template:Familytree/element|{{{123}}}}}}}<!--
+-->{{#ifeq: {{{124|x}}}|{{{124|y}}}|{{Template:Familytree/element|{{{124}}}}}}}<!--
+-->{{#ifeq: {{{125|x}}}|{{{125|y}}}|{{Template:Familytree/element|{{{125}}}}}}}<!--
+-->{{#ifeq: {{{126|x}}}|{{{126|y}}}|{{Template:Familytree/element|{{{126}}}}}}}<!--
+-->{{#ifeq: {{{127|x}}}|{{{127|y}}}|{{Template:Familytree/element|{{{127}}}}}}}<!--
+-->{{#ifeq: {{{128|x}}}|{{{128|y}}}|{{Template:Familytree/element|{{{128}}}}}}}<!--
+-->{{#ifeq: {{{129|x}}}|{{{129|y}}}|{{Template:Familytree/element|{{{129}}}}}}}<!--
+-->{{#ifeq: {{{130|x}}}|{{{130|y}}}|{{Template:Familytree/element|{{{130}}}}}}}<!--
+-->{{#ifeq: {{{131|x}}}|{{{131|y}}}|{{Template:Familytree/element|{{{131}}}}}}}<!--
+-->{{#ifeq: {{{132|x}}}|{{{132|y}}}|{{Template:Familytree/element|{{{132}}}}}}}<!--
+-->{{#ifeq: {{{133|x}}}|{{{133|y}}}|{{Template:Familytree/element|{{{133}}}}}}}<!--
+-->{{#ifeq: {{{134|x}}}|{{{134|y}}}|{{Template:Familytree/element|{{{134}}}}}}}<!--
+-->{{#ifeq: {{{135|x}}}|{{{135|y}}}|{{Template:Familytree/element|{{{135}}}}}}}<!--
+-->{{#ifeq: {{{136|x}}}|{{{136|y}}}|{{Template:Familytree/element|{{{136}}}}}}}<!--
+-->{{#ifeq: {{{137|x}}}|{{{137|y}}}|{{Template:Familytree/element|{{{137}}}}}}}<!--
+-->{{#ifeq: {{{138|x}}}|{{{138|y}}}|{{Template:Familytree/element|{{{138}}}}}}}<!--
+-->{{#ifeq: {{{139|x}}}|{{{139|y}}}|{{Template:Familytree/element|{{{139}}}}}}}<!--
+-->{{#ifeq: {{{140|x}}}|{{{140|y}}}|{{Template:Familytree/element|{{{140}}}}}}}<!--
+-->{{#ifeq: {{{141|x}}}|{{{141|y}}}|{{Template:Familytree/element|{{{141}}}}}}}<!--
+-->{{#ifeq: {{{142|x}}}|{{{142|y}}}|{{Template:Familytree/element|{{{142}}}}}}}<!--
+-->{{#ifeq: {{{143|x}}}|{{{143|y}}}|{{Template:Familytree/element|{{{143}}}}}}}<!--
+-->{{#ifeq: {{{144|x}}}|{{{144|y}}}|{{Template:Familytree/element|{{{144}}}}}}}<!--
+-->{{#ifeq: {{{145|x}}}|{{{145|y}}}|{{Template:Familytree/element|{{{145}}}}}}}<!--
+-->{{#ifeq: {{{146|x}}}|{{{146|y}}}|{{Template:Familytree/element|{{{146}}}}}}}<!--
+-->{{#ifeq: {{{147|x}}}|{{{147|y}}}|{{Template:Familytree/element|{{{147}}}}}}}<!--
+-->{{#ifeq: {{{148|x}}}|{{{148|y}}}|{{Template:Familytree/element|{{{148}}}}}}}<!--
+-->{{#ifeq: {{{149|x}}}|{{{149|y}}}|{{Template:Familytree/element|{{{149}}}}}}}<!--
+-->{{#ifeq: {{{150|x}}}|{{{150|y}}}|{{Template:Familytree/element|{{{150}}}}}}}<!--
+-->{{#ifeq: {{{151|x}}}|{{{151|y}}}|{{Template:Familytree/element|{{{151}}}}}}}<!--
+-->{{#ifeq: {{{152|x}}}|{{{152|y}}}|{{Template:Familytree/element|{{{152}}}}}}}<!--
+-->{{#ifeq: {{{153|x}}}|{{{153|y}}}|{{Template:Familytree/element|{{{153}}}}}}}<!--
+-->{{#ifeq: {{{154|x}}}|{{{154|y}}}|{{Template:Familytree/element|{{{154}}}}}}}<!--
+-->{{#ifeq: {{{155|x}}}|{{{155|y}}}|{{Template:Familytree/element|{{{155}}}}}}}<!--
+-->{{#ifeq: {{{156|x}}}|{{{156|y}}}|{{Template:Familytree/element|{{{156}}}}}}}<!--
+-->{{#ifeq: {{{157|x}}}|{{{157|y}}}|{{Template:Familytree/element|{{{157}}}}}}}<!--
+-->{{#ifeq: {{{158|x}}}|{{{158|y}}}|{{Template:Familytree/element|{{{158}}}}}}}<!--
+-->{{#ifeq: {{{159|x}}}|{{{159|y}}}|{{Template:Familytree/element|{{{159}}}}}}}<!--
+-->{{#ifeq: {{{160|x}}}|{{{160|y}}}|{{Template:Familytree/element|{{{160}}}}}}}<!--
+-->{{#ifeq: {{{161|x}}}|{{{161|y}}}|{{Template:Familytree/element|{{{161}}}}}}}<!--
+-->{{#ifeq: {{{162|x}}}|{{{162|y}}}|{{Template:Familytree/element|{{{162}}}}}}}<!--
+-->{{#ifeq: {{{163|x}}}|{{{163|y}}}|{{Template:Familytree/element|{{{163}}}}}}}<!--
+-->{{#ifeq: {{{164|x}}}|{{{164|y}}}|{{Template:Familytree/element|{{{164}}}}}}}<!--
+-->{{#ifeq: {{{165|x}}}|{{{165|y}}}|{{Template:Familytree/element|{{{165}}}}}}}<!--
+-->{{#ifeq: {{{166|x}}}|{{{166|y}}}|{{Template:Familytree/element|{{{166}}}}}}}<!--
+-->{{#ifeq: {{{167|x}}}|{{{167|y}}}|{{Template:Familytree/element|{{{167}}}}}}}<!--
+-->{{#ifeq: {{{168|x}}}|{{{168|y}}}|{{Template:Familytree/element|{{{168}}}}}}}<!--
+-->{{#ifeq: {{{169|x}}}|{{{169|y}}}|{{Template:Familytree/element|{{{169}}}}}}}<!--
+-->{{#ifeq: {{{170|x}}}|{{{170|y}}}|{{Template:Familytree/element|{{{170}}}}}}}<!--
+-->{{#ifeq: {{{171|x}}}|{{{171|y}}}|{{Template:Familytree/element|{{{171}}}}}}}<!--
+-->{{#ifeq: {{{172|x}}}|{{{172|y}}}|{{Template:Familytree/element|{{{172}}}}}}}<!--
+-->{{#ifeq: {{{173|x}}}|{{{173|y}}}|{{Template:Familytree/element|{{{173}}}}}}}<!--
+-->{{#ifeq: {{{174|x}}}|{{{174|y}}}|{{Template:Familytree/element|{{{174}}}}}}}<!--
+-->{{#ifeq: {{{175|x}}}|{{{175|y}}}|{{Template:Familytree/element|{{{175}}}}}}}<!--
+-->{{#ifeq: {{{176|x}}}|{{{176|y}}}|{{Template:Familytree/element|{{{176}}}}}}}<!--
+-->{{#ifeq: {{{177|x}}}|{{{177|y}}}|{{Template:Familytree/element|{{{177}}}}}}}<!--
+-->{{#ifeq: {{{178|x}}}|{{{178|y}}}|{{Template:Familytree/element|{{{178}}}}}}}<!--
+-->{{#ifeq: {{{179|x}}}|{{{179|y}}}|{{Template:Familytree/element|{{{179}}}}}}}<!--
+-->{{#ifeq: {{{180|x}}}|{{{180|y}}}|{{Template:Familytree/element|{{{180}}}}}}}<!--
+-->{{#ifeq: {{{181|x}}}|{{{181|y}}}|{{Template:Familytree/element|{{{181}}}}}}}<!--
+-->{{#ifeq: {{{182|x}}}|{{{182|y}}}|{{Template:Familytree/element|{{{182}}}}}}}<!--
+-->{{#ifeq: {{{183|x}}}|{{{183|y}}}|{{Template:Familytree/element|{{{183}}}}}}}<!--
+-->{{#ifeq: {{{184|x}}}|{{{184|y}}}|{{Template:Familytree/element|{{{184}}}}}}}<!--
+-->{{#ifeq: {{{185|x}}}|{{{185|y}}}|{{Template:Familytree/element|{{{185}}}}}}}<!--
+-->{{#ifeq: {{{186|x}}}|{{{186|y}}}|{{Template:Familytree/element|{{{186}}}}}}}<!--
+-->{{#ifeq: {{{187|x}}}|{{{187|y}}}|{{Template:Familytree/element|{{{187}}}}}}}<!--
+-->{{#ifeq: {{{188|x}}}|{{{188|y}}}|{{Template:Familytree/element|{{{188}}}}}}}<!--
+-->{{#ifeq: {{{189|x}}}|{{{189|y}}}|{{Template:Familytree/element|{{{189}}}}}}}<!--
+-->{{#ifeq: {{{190|x}}}|{{{190|y}}}|{{Template:Familytree/element|{{{190}}}}}}}<!--
+-->{{#ifeq: {{{191|x}}}|{{{191|y}}}|{{Template:Familytree/element|{{{191}}}}}}}<!--
+-->{{#ifeq: {{{192|x}}}|{{{192|y}}}|{{Template:Familytree/element|{{{192}}}}}}}<!--
+-->{{#ifeq: {{{193|x}}}|{{{193|y}}}|{{Template:Familytree/element|{{{193}}}}}}}<!--
+-->{{#ifeq: {{{194|x}}}|{{{194|y}}}|{{Template:Familytree/element|{{{194}}}}}}}<!--
+-->{{#ifeq: {{{195|x}}}|{{{195|y}}}|{{Template:Familytree/element|{{{195}}}}}}}<!--
+-->{{#ifeq: {{{196|x}}}|{{{196|y}}}|{{Template:Familytree/element|{{{196}}}}}}}<!--
+-->{{#ifeq: {{{197|x}}}|{{{197|y}}}|{{Template:Familytree/element|{{{197}}}}}}}<!--
+-->{{#ifeq: {{{198|x}}}|{{{198|y}}}|{{Template:Familytree/element|{{{198}}}}}}}<!--
+-->{{#ifeq: {{{199|x}}}|{{{199|y}}}|{{Template:Familytree/element|{{{199}}}}}}}<!--
+-->{{#ifeq: {{{200|x}}}|{{{200|y}}}|{{Template:Familytree/element|{{{200}}}}}}}<!--
+-->{{#ifeq: {{{201|x}}}|{{{201|y}}}|{{Template:Familytree/element|{{{201}}}}}}}<!--
+-->{{#ifeq: {{{202|x}}}|{{{202|y}}}|{{Template:Familytree/element|{{{202}}}}}}}<!--
+-->{{#ifeq: {{{203|x}}}|{{{203|y}}}|{{Template:Familytree/element|{{{203}}}}}}}<!--
+-->{{#ifeq: {{{204|x}}}|{{{204|y}}}|{{Template:Familytree/element|{{{204}}}}}}}<!--
+-->{{#ifeq: {{{205|x}}}|{{{205|y}}}|{{Template:Familytree/element|{{{205}}}}}}}<!--
+-->{{#ifeq: {{{206|x}}}|{{{206|y}}}|{{Template:Familytree/element|{{{206}}}}}}}<!--
+-->{{#ifeq: {{{207|x}}}|{{{207|y}}}|{{Template:Familytree/element|{{{207}}}}}}}<!--
+-->{{#ifeq: {{{208|x}}}|{{{208|y}}}|{{Template:Familytree/element|{{{208}}}}}}}<!--
+-->{{#ifeq: {{{209|x}}}|{{{209|y}}}|{{Template:Familytree/element|{{{209}}}}}}}<!--
+-->{{#ifeq: {{{210|x}}}|{{{210|y}}}|{{Template:Familytree/element|{{{210}}}}}}}<!--
+-->{{#ifeq: {{{211|x}}}|{{{211|y}}}|{{Template:Familytree/element|{{{211}}}}}}}<!--
+-->{{#ifeq: {{{212|x}}}|{{{212|y}}}|{{Template:Familytree/element|{{{212}}}}}}}<!--
+-->{{#ifeq: {{{213|x}}}|{{{213|y}}}|{{Template:Familytree/element|{{{213}}}}}}}<!--
+-->{{#ifeq: {{{214|x}}}|{{{214|y}}}|{{Template:Familytree/element|{{{214}}}}}}}<!--
+-->{{#ifeq: {{{215|x}}}|{{{215|y}}}|{{Template:Familytree/element|{{{215}}}}}}}<!--
+-->{{#ifeq: {{{216|x}}}|{{{216|y}}}|{{Template:Familytree/element|{{{216}}}}}}}<!--
+-->{{#ifeq: {{{217|x}}}|{{{217|y}}}|{{Template:Familytree/element|{{{217}}}}}}}<!--
+-->{{#ifeq: {{{218|x}}}|{{{218|y}}}|{{Template:Familytree/element|{{{218}}}}}}}<!--
+-->{{#ifeq: {{{219|x}}}|{{{219|y}}}|{{Template:Familytree/element|{{{219}}}}}}}<!--
+-->{{#ifeq: {{{220|x}}}|{{{220|y}}}|{{Template:Familytree/element|{{{220}}}}}}}<!--
+-->{{#ifeq: {{{221|x}}}|{{{221|y}}}|{{Template:Familytree/element|{{{221}}}}}}}<!--
+-->{{#ifeq: {{{222|x}}}|{{{222|y}}}|{{Template:Familytree/element|{{{222}}}}}}}<!--
+-->{{#ifeq: {{{223|x}}}|{{{223|y}}}|{{Template:Familytree/element|{{{223}}}}}}}<!--
+-->{{#ifeq: {{{224|x}}}|{{{224|y}}}|{{Template:Familytree/element|{{{224}}}}}}}<!--
+-->{{#ifeq: {{{225|x}}}|{{{225|y}}}|{{Template:Familytree/element|{{{225}}}}}}}<!--
+-->{{#ifeq: {{{226|x}}}|{{{226|y}}}|{{Template:Familytree/element|{{{226}}}}}}}<!--
+-->{{#ifeq: {{{227|x}}}|{{{227|y}}}|{{Template:Familytree/element|{{{227}}}}}}}<!--
+-->{{#ifeq: {{{228|x}}}|{{{228|y}}}|{{Template:Familytree/element|{{{228}}}}}}}<!--
+-->{{#ifeq: {{{229|x}}}|{{{229|y}}}|{{Template:Familytree/element|{{{229}}}}}}}<!--
+-->{{#ifeq: {{{230|x}}}|{{{230|y}}}|{{Template:Familytree/element|{{{230}}}}}}}<!--
+-->{{#ifeq: {{{231|x}}}|{{{231|y}}}|{{Template:Familytree/element|{{{231}}}}}}}<!--
+-->{{#ifeq: {{{232|x}}}|{{{232|y}}}|{{Template:Familytree/element|{{{232}}}}}}}<!--
+-->{{#ifeq: {{{233|x}}}|{{{233|y}}}|{{Template:Familytree/element|{{{233}}}}}}}<!--
+-->{{#ifeq: {{{234|x}}}|{{{234|y}}}|{{Template:Familytree/element|{{{234}}}}}}}<!--
+-->{{#ifeq: {{{235|x}}}|{{{235|y}}}|{{Template:Familytree/element|{{{235}}}}}}}<!--
+-->{{#ifeq: {{{236|x}}}|{{{236|y}}}|{{Template:Familytree/element|{{{236}}}}}}}<!--
+-->{{#ifeq: {{{237|x}}}|{{{237|y}}}|{{Template:Familytree/element|{{{237}}}}}}}<!--
+-->{{#ifeq: {{{238|x}}}|{{{238|y}}}|{{Template:Familytree/element|{{{238}}}}}}}<!--
+-->{{#ifeq: {{{239|x}}}|{{{239|y}}}|{{Template:Familytree/element|{{{239}}}}}}}<!--
+-->{{#ifeq: {{{240|x}}}|{{{240|y}}}|{{Template:Familytree/element|{{{240}}}}}}}<!--
+-->{{#ifeq: {{{241|x}}}|{{{241|y}}}|{{Template:Familytree/element|{{{241}}}}}}}<!--
+-->{{#ifeq: {{{242|x}}}|{{{242|y}}}|{{Template:Familytree/element|{{{242}}}}}}}<!--
+-->{{#ifeq: {{{243|x}}}|{{{243|y}}}|{{Template:Familytree/element|{{{243}}}}}}}<!--
+-->{{#ifeq: {{{244|x}}}|{{{244|y}}}|{{Template:Familytree/element|{{{244}}}}}}}<!--
+-->{{#ifeq: {{{245|x}}}|{{{245|y}}}|{{Template:Familytree/element|{{{245}}}}}}}<!--
+-->{{#ifeq: {{{246|x}}}|{{{246|y}}}|{{Template:Familytree/element|{{{246}}}}}}}<!--
+-->{{#ifeq: {{{247|x}}}|{{{247|y}}}|{{Template:Familytree/element|{{{247}}}}}}}<!--
+-->{{#ifeq: {{{248|x}}}|{{{248|y}}}|{{Template:Familytree/element|{{{248}}}}}}}<!--
+-->{{#ifeq: {{{249|x}}}|{{{249|y}}}|{{Template:Familytree/element|{{{249}}}}}}}<!--
+-->{{#ifeq: {{{250|x}}}|{{{250|y}}}|{{Template:Familytree/element|{{{250}}}}}}}<!--
+-->{{#ifeq: {{{251|x}}}|{{{251|y}}}|{{Template:Familytree/element|{{{251}}}}}}}<!--
+-->{{#ifeq: {{{252|x}}}|{{{252|y}}}|{{Template:Familytree/element|{{{252}}}}}}}<!--
+-->{{#ifeq: {{{253|x}}}|{{{253|y}}}|{{Template:Familytree/element|{{{253}}}}}}}<!--
+-->{{#ifeq: {{{254|x}}}|{{{254|y}}}|{{Template:Familytree/element|{{{254}}}}}}}<!--
+-->{{#ifeq: {{{255|x}}}|{{{255|y}}}|{{Template:Familytree/element|{{{255}}}}}}}<!--
+-->{{#ifeq: {{{256|x}}}|{{{256|y}}}|{{Template:Familytree/element|{{{256}}}}}}}<!--
+-->{{#ifeq: {{{257|x}}}|{{{257|y}}}|{{Template:Familytree/element|{{{257}}}}}}}<!--
+-->{{#ifeq: {{{258|x}}}|{{{258|y}}}|{{Template:Familytree/element|{{{258}}}}}}}<!--
+-->{{#ifeq: {{{259|x}}}|{{{259|y}}}|{{Template:Familytree/element|{{{259}}}}}}}<!--
+-->{{#ifeq: {{{260|x}}}|{{{260|y}}}|{{Template:Familytree/element|{{{260}}}}}}}<!--
+-->{{#ifeq: {{{261|x}}}|{{{261|y}}}|{{Template:Familytree/element|{{{261}}}}}}}<!--
+-->{{#ifeq: {{{262|x}}}|{{{262|y}}}|{{Template:Familytree/element|{{{262}}}}}}}<!--
+-->{{#ifeq: {{{263|x}}}|{{{263|y}}}|{{Template:Familytree/element|{{{263}}}}}}}<!--
+-->{{#ifeq: {{{264|x}}}|{{{264|y}}}|{{Template:Familytree/element|{{{264}}}}}}}<!--
+-->{{#ifeq: {{{265|x}}}|{{{265|y}}}|{{Template:Familytree/element|{{{265}}}}}}}<!--
+-->{{#ifeq: {{{266|x}}}|{{{266|y}}}|{{Template:Familytree/element|{{{266}}}}}}}<!--
+-->{{#ifeq: {{{267|x}}}|{{{267|y}}}|{{Template:Familytree/element|{{{267}}}}}}}<!--
+-->{{#ifeq: {{{268|x}}}|{{{268|y}}}|{{Template:Familytree/element|{{{268}}}}}}}<!--
+-->{{#ifeq: {{{269|x}}}|{{{269|y}}}|{{Template:Familytree/element|{{{269}}}}}}}<!--
+-->{{#ifeq: {{{270|x}}}|{{{270|y}}}|{{Template:Familytree/element|{{{270}}}}}}}<!--
+-->{{#ifeq: {{{271|x}}}|{{{271|y}}}|{{Template:Familytree/element|{{{271}}}}}}}<!--
+-->{{#ifeq: {{{272|x}}}|{{{272|y}}}|{{Template:Familytree/element|{{{272}}}}}}}<!--
+-->{{#ifeq: {{{273|x}}}|{{{273|y}}}|{{Template:Familytree/element|{{{273}}}}}}}<!--
+-->{{#ifeq: {{{274|x}}}|{{{274|y}}}|{{Template:Familytree/element|{{{274}}}}}}}<!--
+-->{{#ifeq: {{{275|x}}}|{{{275|y}}}|{{Template:Familytree/element|{{{275}}}}}}}<!--
+-->{{#ifeq: {{{276|x}}}|{{{276|y}}}|{{Template:Familytree/element|{{{276}}}}}}}<!--
+-->{{#ifeq: {{{277|x}}}|{{{277|y}}}|{{Template:Familytree/element|{{{277}}}}}}}<!--
+-->{{#ifeq: {{{278|x}}}|{{{278|y}}}|{{Template:Familytree/element|{{{278}}}}}}}<!--
+-->{{#ifeq: {{{279|x}}}|{{{279|y}}}|{{Template:Familytree/element|{{{279}}}}}}}<!--
+-->{{#ifeq: {{{280|x}}}|{{{280|y}}}|{{Template:Familytree/element|{{{280}}}}}}}<!--
+-->{{#ifeq: {{{281|x}}}|{{{281|y}}}|{{Template:Familytree/element|{{{281}}}}}}}<!--
+-->{{#ifeq: {{{282|x}}}|{{{282|y}}}|{{Template:Familytree/element|{{{282}}}}}}}<!--
+-->{{#ifeq: {{{283|x}}}|{{{283|y}}}|{{Template:Familytree/element|{{{283}}}}}}}<!--
+-->{{#ifeq: {{{284|x}}}|{{{284|y}}}|{{Template:Familytree/element|{{{284}}}}}}}<!--
+-->{{#ifeq: {{{285|x}}}|{{{285|y}}}|{{Template:Familytree/element|{{{285}}}}}}}<!--
+-->{{#ifeq: {{{286|x}}}|{{{286|y}}}|{{Template:Familytree/element|{{{286}}}}}}}<!--
+-->{{#ifeq: {{{287|x}}}|{{{287|y}}}|{{Template:Familytree/element|{{{287}}}}}}}<!--
+-->{{#ifeq: {{{288|x}}}|{{{288|y}}}|{{Template:Familytree/element|{{{288}}}}}}}<!--
+-->{{#ifeq: {{{289|x}}}|{{{289|y}}}|{{Template:Familytree/element|{{{289}}}}}}}<!--
+-->{{#ifeq: {{{290|x}}}|{{{290|y}}}|{{Template:Familytree/element|{{{290}}}}}}}<!--
+-->{{#ifeq: {{{291|x}}}|{{{291|y}}}|{{Template:Familytree/element|{{{291}}}}}}}<!--
+-->{{#ifeq: {{{292|x}}}|{{{292|y}}}|{{Template:Familytree/element|{{{292}}}}}}}<!--
+-->{{#ifeq: {{{293|x}}}|{{{293|y}}}|{{Template:Familytree/element|{{{293}}}}}}}<!--
+-->{{#ifeq: {{{294|x}}}|{{{294|y}}}|{{Template:Familytree/element|{{{294}}}}}}}<!--
+-->{{#ifeq: {{{295|x}}}|{{{295|y}}}|{{Template:Familytree/element|{{{295}}}}}}}<!--
+-->{{#ifeq: {{{296|x}}}|{{{296|y}}}|{{Template:Familytree/element|{{{296}}}}}}}<!--
+-->{{#ifeq: {{{297|x}}}|{{{297|y}}}|{{Template:Familytree/element|{{{297}}}}}}}<!--
+-->{{#ifeq: {{{298|x}}}|{{{298|y}}}|{{Template:Familytree/element|{{{298}}}}}}}<!--
+-->{{#ifeq: {{{299|x}}}|{{{299|y}}}|{{Template:Familytree/element|{{{299}}}}}}}<!--
+-->{{#ifeq: {{{300|x}}}|{{{300|y}}}|{{Template:Familytree/element|{{{300}}}}}}}<!--
+-->{{#ifeq: {{{301|x}}}|{{{301|y}}}|{{Template:Familytree/element|{{{301}}}}}}}<!--
+-->{{#ifeq: {{{302|x}}}|{{{302|y}}}|{{Template:Familytree/element|{{{302}}}}}}}<!--
+-->{{#ifeq: {{{303|x}}}|{{{303|y}}}|{{Template:Familytree/element|{{{303}}}}}}}<!--
+-->{{#ifeq: {{{304|x}}}|{{{304|y}}}|{{Template:Familytree/element|{{{304}}}}}}}<!--
+-->{{#ifeq: {{{305|x}}}|{{{305|y}}}|{{Template:Familytree/element|{{{305}}}}}}}<!--
+-->{{#ifeq: {{{306|x}}}|{{{306|y}}}|{{Template:Familytree/element|{{{306}}}}}}}<!--
+-->{{#ifeq: {{{307|x}}}|{{{307|y}}}|{{Template:Familytree/element|{{{307}}}}}}}<!--
+-->{{#ifeq: {{{308|x}}}|{{{308|y}}}|{{Template:Familytree/element|{{{308}}}}}}}<!--
+-->{{#ifeq: {{{309|x}}}|{{{309|y}}}|{{Template:Familytree/element|{{{309}}}}}}}<!--
+-->{{#ifeq: {{{310|x}}}|{{{310|y}}}|{{Template:Familytree/element|{{{310}}}}}}}<!--
+-->{{#ifeq: {{{311|x}}}|{{{311|y}}}|{{Template:Familytree/element|{{{311}}}}}}}<!--
+-->{{#ifeq: {{{312|x}}}|{{{312|y}}}|{{Template:Familytree/element|{{{312}}}}}}}<!--
+-->{{#ifeq: {{{313|x}}}|{{{313|y}}}|{{Template:Familytree/element|{{{313}}}}}}}<!--
+-->{{#ifeq: {{{314|x}}}|{{{314|y}}}|{{Template:Familytree/element|{{{314}}}}}}}<!--
+-->{{#ifeq: {{{315|x}}}|{{{315|y}}}|{{Template:Familytree/element|{{{315}}}}}}}<!--
+-->{{#ifeq: {{{316|x}}}|{{{316|y}}}|{{Template:Familytree/element|{{{316}}}}}}}<!--
+-->{{#ifeq: {{{317|x}}}|{{{317|y}}}|{{Template:Familytree/element|{{{317}}}}}}}<!--
+-->{{#ifeq: {{{318|x}}}|{{{318|y}}}|{{Template:Familytree/element|{{{318}}}}}}}<!--
+-->{{#ifeq: {{{319|x}}}|{{{319|y}}}|{{Template:Familytree/element|{{{319}}}}}}}<!--
+-->{{#ifeq: {{{320|x}}}|{{{320|y}}}|{{Template:Familytree/element|{{{320}}}}}}}<!--
+-->{{#ifeq: {{{321|x}}}|{{{321|y}}}|{{Template:Familytree/element|{{{321}}}}}}}<!--
+-->{{#ifeq: {{{322|x}}}|{{{322|y}}}|{{Template:Familytree/element|{{{322}}}}}}}<!--
+-->{{#ifeq: {{{323|x}}}|{{{323|y}}}|{{Template:Familytree/element|{{{323}}}}}}}<!--
+-->{{#ifeq: {{{324|x}}}|{{{324|y}}}|{{Template:Familytree/element|{{{324}}}}}}}<!--
+-->{{#ifeq: {{{325|x}}}|{{{325|y}}}|{{Template:Familytree/element|{{{325}}}}}}}<!--
+-->{{#ifeq: {{{326|x}}}|{{{326|y}}}|{{Template:Familytree/element|{{{326}}}}}}}<!--
+-->{{#ifeq: {{{327|x}}}|{{{327|y}}}|{{Template:Familytree/element|{{{327}}}}}}}<!--
+-->{{#ifeq: {{{328|x}}}|{{{328|y}}}|{{Template:Familytree/element|{{{328}}}}}}}<!--
+-->{{#ifeq: {{{329|x}}}|{{{329|y}}}|{{Template:Familytree/element|{{{329}}}}}}}<!--
+-->{{#ifeq: {{{330|x}}}|{{{330|y}}}|{{Template:Familytree/element|{{{330}}}}}}}<!--
+-->{{#ifeq: {{{331|x}}}|{{{331|y}}}|{{Template:Familytree/element|{{{331}}}}}}}<!--
+-->{{#ifeq: {{{332|x}}}|{{{332|y}}}|{{Template:Familytree/element|{{{332}}}}}}}<!--
+-->{{#ifeq: {{{333|x}}}|{{{333|y}}}|{{Template:Familytree/element|{{{333}}}}}}}<!--
+-->{{#ifeq: {{{334|x}}}|{{{334|y}}}|{{Template:Familytree/element|{{{334}}}}}}}<!--
+-->{{#ifeq: {{{335|x}}}|{{{335|y}}}|{{Template:Familytree/element|{{{335}}}}}}}<!--
+-->{{#ifeq: {{{336|x}}}|{{{336|y}}}|{{Template:Familytree/element|{{{336}}}}}}}<!--
+-->{{#ifeq: {{{337|x}}}|{{{337|y}}}|{{Template:Familytree/element|{{{337}}}}}}}<!--
+-->{{#ifeq: {{{338|x}}}|{{{338|y}}}|{{Template:Familytree/element|{{{338}}}}}}}<!--
+-->{{#ifeq: {{{339|x}}}|{{{339|y}}}|{{Template:Familytree/element|{{{339}}}}}}}<!--
+-->{{#ifeq: {{{340|x}}}|{{{340|y}}}|{{Template:Familytree/element|{{{340}}}}}}}<!--
+-->{{#ifeq: {{{341|x}}}|{{{341|y}}}|{{Template:Familytree/element|{{{341}}}}}}}<!--
+-->{{#ifeq: {{{342|x}}}|{{{342|y}}}|{{Template:Familytree/element|{{{342}}}}}}}<!--
+-->{{#ifeq: {{{343|x}}}|{{{343|y}}}|{{Template:Familytree/element|{{{343}}}}}}}<!--
+-->{{#ifeq: {{{344|x}}}|{{{344|y}}}|{{Template:Familytree/element|{{{344}}}}}}}<!--
+-->{{#ifeq: {{{345|x}}}|{{{345|y}}}|{{Template:Familytree/element|{{{345}}}}}}}<!--
+-->{{#ifeq: {{{346|x}}}|{{{346|y}}}|{{Template:Familytree/element|{{{346}}}}}}}<!--
+-->{{#ifeq: {{{347|x}}}|{{{347|y}}}|{{Template:Familytree/element|{{{347}}}}}}}<!--
+-->{{#ifeq: {{{348|x}}}|{{{348|y}}}|{{Template:Familytree/element|{{{348}}}}}}}<!--
+-->{{#ifeq: {{{349|x}}}|{{{349|y}}}|{{Template:Familytree/element|{{{349}}}}}}}<!--
+-->{{#ifeq: {{{350|x}}}|{{{350|y}}}|{{Template:Familytree/element|{{{350}}}}}}}<!--
+-->{{#ifeq: {{{351|x}}}|{{{351|y}}}|{{Template:Familytree/element|{{{351}}}}}}}<!--
+-->{{#ifeq: {{{352|x}}}|{{{352|y}}}|{{Template:Familytree/element|{{{352}}}}}}}<!--
+-->{{#ifeq: {{{353|x}}}|{{{353|y}}}|{{Template:Familytree/element|{{{353}}}}}}}<!--
+-->{{#ifeq: {{{354|x}}}|{{{354|y}}}|{{Template:Familytree/element|{{{354}}}}}}}<!--
+-->{{#ifeq: {{{355|x}}}|{{{355|y}}}|{{Template:Familytree/element|{{{355}}}}}}}<!--
+-->{{#ifeq: {{{356|x}}}|{{{356|y}}}|{{Template:Familytree/element|{{{356}}}}}}}<!--
+-->{{#ifeq: {{{357|x}}}|{{{357|y}}}|{{Template:Familytree/element|{{{357}}}}}}}<!--
+-->{{#ifeq: {{{358|x}}}|{{{358|y}}}|{{Template:Familytree/element|{{{358}}}}}}}<!--
+-->{{#ifeq: {{{359|x}}}|{{{359|y}}}|{{Template:Familytree/element|{{{359}}}}}}}<!--
+-->{{#ifeq: {{{360|x}}}|{{{360|y}}}|{{Template:Familytree/element|{{{360}}}}}}}<!--
+-->{{#ifeq: {{{361|x}}}|{{{361|y}}}|{{Template:Familytree/element|{{{361}}}}}}}<!--
+-->{{#ifeq: {{{362|x}}}|{{{362|y}}}|{{Template:Familytree/element|{{{362}}}}}}}<!--
+-->{{#ifeq: {{{363|x}}}|{{{363|y}}}|{{Template:Familytree/element|{{{363}}}}}}}<!--
+-->{{#ifeq: {{{364|x}}}|{{{364|y}}}|{{Template:Familytree/element|{{{364}}}}}}}<!--
+-->{{#ifeq: {{{365|x}}}|{{{365|y}}}|{{Template:Familytree/element|{{{365}}}}}}}<!--
+-->{{#ifeq: {{{366|x}}}|{{{366|y}}}|{{Template:Familytree/element|{{{366}}}}}}}<!--
+-->{{#ifeq: {{{367|x}}}|{{{367|y}}}|{{Template:Familytree/element|{{{367}}}}}}}<!--
+-->{{#ifeq: {{{368|x}}}|{{{368|y}}}|{{Template:Familytree/element|{{{368}}}}}}}<!--
+-->{{#ifeq: {{{369|x}}}|{{{369|y}}}|{{Template:Familytree/element|{{{369}}}}}}}<!--
+-->{{#ifeq: {{{370|x}}}|{{{370|y}}}|{{Template:Familytree/element|{{{370}}}}}}}<!--
+-->{{#ifeq: {{{371|x}}}|{{{371|y}}}|{{Template:Familytree/element|{{{371}}}}}}}<!--
+-->{{#ifeq: {{{372|x}}}|{{{372|y}}}|{{Template:Familytree/element|{{{372}}}}}}}<!--
+-->{{#ifeq: {{{373|x}}}|{{{373|y}}}|{{Template:Familytree/element|{{{373}}}}}}}<!--
+-->{{#ifeq: {{{374|x}}}|{{{374|y}}}|{{Template:Familytree/element|{{{374}}}}}}}<!--
+-->{{#ifeq: {{{375|x}}}|{{{375|y}}}|{{Template:Familytree/element|{{{375}}}}}}}<!--
+-->{{#ifeq: {{{376|x}}}|{{{376|y}}}|{{Template:Familytree/element|{{{376}}}}}}}<!--
+-->{{#ifeq: {{{377|x}}}|{{{377|y}}}|{{Template:Familytree/element|{{{377}}}}}}}<!--
+-->{{#ifeq: {{{378|x}}}|{{{378|y}}}|{{Template:Familytree/element|{{{378}}}}}}}<!--
+-->{{#ifeq: {{{379|x}}}|{{{379|y}}}|{{Template:Familytree/element|{{{379}}}}}}}<!--
+-->{{#ifeq: {{{380|x}}}|{{{380|y}}}|{{Template:Familytree/element|{{{380}}}}}}}<!--
+-->{{#ifeq: {{{381|x}}}|{{{381|y}}}|{{Template:Familytree/element|{{{381}}}}}}}<!--
+-->{{#ifeq: {{{382|x}}}|{{{382|y}}}|{{Template:Familytree/element|{{{382}}}}}}}<!--
+-->{{#ifeq: {{{383|x}}}|{{{383|y}}}|{{Template:Familytree/element|{{{383}}}}}}}<!--
+-->{{#ifeq: {{{384|x}}}|{{{384|y}}}|{{Template:Familytree/element|{{{384}}}}}}}<!--
+-->{{#ifeq: {{{385|x}}}|{{{385|y}}}|{{Template:Familytree/element|{{{385}}}}}}}<!--
+-->{{#ifeq: {{{386|x}}}|{{{386|y}}}|{{Template:Familytree/element|{{{386}}}}}}}<!--
+-->{{#ifeq: {{{387|x}}}|{{{387|y}}}|{{Template:Familytree/element|{{{387}}}}}}}<!--
+-->{{#ifeq: {{{388|x}}}|{{{388|y}}}|{{Template:Familytree/element|{{{388}}}}}}}<!--
+-->{{#ifeq: {{{389|x}}}|{{{389|y}}}|{{Template:Familytree/element|{{{389}}}}}}}<!--
+-->{{#ifeq: {{{390|x}}}|{{{390|y}}}|{{Template:Familytree/element|{{{390}}}}}}}<!--
+-->{{#ifeq: {{{391|x}}}|{{{391|y}}}|{{Template:Familytree/element|{{{391}}}}}}}<!--
+-->{{#ifeq: {{{392|x}}}|{{{392|y}}}|{{Template:Familytree/element|{{{392}}}}}}}<!--
+-->{{#ifeq: {{{393|x}}}|{{{393|y}}}|{{Template:Familytree/element|{{{393}}}}}}}<!--
+-->{{#ifeq: {{{394|x}}}|{{{394|y}}}|{{Template:Familytree/element|{{{394}}}}}}}<!--
+-->{{#ifeq: {{{395|x}}}|{{{395|y}}}|{{Template:Familytree/element|{{{395}}}}}}}<!--
+-->{{#ifeq: {{{396|x}}}|{{{396|y}}}|{{Template:Familytree/element|{{{396}}}}}}}<!--
+-->{{#ifeq: {{{397|x}}}|{{{397|y}}}|{{Template:Familytree/element|{{{397}}}}}}}<!--
+-->{{#ifeq: {{{398|x}}}|{{{398|y}}}|{{Template:Familytree/element|{{{398}}}}}}}<!--
+-->{{#ifeq: {{{399|x}}}|{{{399|y}}}|{{Template:Familytree/element|{{{399}}}}}}}<!--
+-->{{#ifeq: {{{400|x}}}|{{{400|y}}}|{{Template:Familytree/element|{{{400}}}}}}}<!--
+-->{{#ifeq: {{{401|x}}}|{{{401|y}}}|{{Template:Familytree/element|{{{401}}}}}}}<!--
+-->{{#ifeq: {{{402|x}}}|{{{402|y}}}|{{Template:Familytree/element|{{{402}}}}}}}<!--
+-->{{#ifeq: {{{403|x}}}|{{{403|y}}}|{{Template:Familytree/element|{{{403}}}}}}}<!--
+-->{{#ifeq: {{{404|x}}}|{{{404|y}}}|{{Template:Familytree/element|{{{404}}}}}}}<!--
+-->{{#ifeq: {{{405|x}}}|{{{405|y}}}|{{Template:Familytree/element|{{{405}}}}}}}<!--
+-->{{#ifeq: {{{406|x}}}|{{{406|y}}}|{{Template:Familytree/element|{{{406}}}}}}}<!--
+-->{{#ifeq: {{{407|x}}}|{{{407|y}}}|{{Template:Familytree/element|{{{407}}}}}}}<!--
+-->{{#ifeq: {{{408|x}}}|{{{408|y}}}|{{Template:Familytree/element|{{{408}}}}}}}<!--
+-->{{#ifeq: {{{409|x}}}|{{{409|y}}}|{{Template:Familytree/element|{{{409}}}}}}}<!--
+-->{{#ifeq: {{{410|x}}}|{{{410|y}}}|{{Template:Familytree/element|{{{410}}}}}}}<!--
+-->{{#ifeq: {{{411|x}}}|{{{411|y}}}|{{Template:Familytree/element|{{{411}}}}}}}<!--
+-->{{#ifeq: {{{412|x}}}|{{{412|y}}}|{{Template:Familytree/element|{{{412}}}}}}}<!--
+-->{{#ifeq: {{{413|x}}}|{{{413|y}}}|{{Template:Familytree/element|{{{413}}}}}}}<!--
+-->{{#ifeq: {{{414|x}}}|{{{414|y}}}|{{Template:Familytree/element|{{{414}}}}}}}<!--
+-->{{#ifeq: {{{415|x}}}|{{{415|y}}}|{{Template:Familytree/element|{{{415}}}}}}}<!--
+-->{{#ifeq: {{{416|x}}}|{{{416|y}}}|{{Template:Familytree/element|{{{416}}}}}}}<!--
+-->{{#ifeq: {{{417|x}}}|{{{417|y}}}|{{Template:Familytree/element|{{{417}}}}}}}<!--
+-->{{#ifeq: {{{418|x}}}|{{{418|y}}}|{{Template:Familytree/element|{{{418}}}}}}}<!--
+-->{{#ifeq: {{{419|x}}}|{{{419|y}}}|{{Template:Familytree/element|{{{419}}}}}}}<!--
+-->{{#ifeq: {{{420|x}}}|{{{420|y}}}|{{Template:Familytree/element|{{{420}}}}}}}<!--
+-->{{#ifeq: {{{421|x}}}|{{{421|y}}}|{{Template:Familytree/element|{{{421}}}}}}}<!--
+-->{{#ifeq: {{{422|x}}}|{{{422|y}}}|{{Template:Familytree/element|{{{422}}}}}}}<!--
+-->{{#ifeq: {{{423|x}}}|{{{423|y}}}|{{Template:Familytree/element|{{{423}}}}}}}<!--
+-->{{#ifeq: {{{424|x}}}|{{{424|y}}}|{{Template:Familytree/element|{{{424}}}}}}}<!--
+-->{{#ifeq: {{{425|x}}}|{{{425|y}}}|{{Template:Familytree/element|{{{425}}}}}}}<!--
+-->{{#ifeq: {{{426|x}}}|{{{426|y}}}|{{Template:Familytree/element|{{{426}}}}}}}<!--
+-->{{#ifeq: {{{427|x}}}|{{{427|y}}}|{{Template:Familytree/element|{{{427}}}}}}}<!--
+-->{{#ifeq: {{{428|x}}}|{{{428|y}}}|{{Template:Familytree/element|{{{428}}}}}}}<!--
+-->{{#ifeq: {{{429|x}}}|{{{429|y}}}|{{Template:Familytree/element|{{{429}}}}}}}<!--
+-->{{#ifeq: {{{430|x}}}|{{{430|y}}}|{{Template:Familytree/element|{{{430}}}}}}}<!--
+-->{{#ifeq: {{{431|x}}}|{{{431|y}}}|{{Template:Familytree/element|{{{431}}}}}}}<!--
+-->{{#ifeq: {{{432|x}}}|{{{432|y}}}|{{Template:Familytree/element|{{{432}}}}}}}<!--
+-->{{#ifeq: {{{433|x}}}|{{{433|y}}}|{{Template:Familytree/element|{{{433}}}}}}}<!--
+-->{{#ifeq: {{{434|x}}}|{{{434|y}}}|{{Template:Familytree/element|{{{434}}}}}}}<!--
+-->{{#ifeq: {{{435|x}}}|{{{435|y}}}|{{Template:Familytree/element|{{{435}}}}}}}<!--
+-->{{#ifeq: {{{436|x}}}|{{{436|y}}}|{{Template:Familytree/element|{{{436}}}}}}}<!--
+-->{{#ifeq: {{{437|x}}}|{{{437|y}}}|{{Template:Familytree/element|{{{437}}}}}}}<!--
+-->{{#ifeq: {{{438|x}}}|{{{438|y}}}|{{Template:Familytree/element|{{{438}}}}}}}<!--
+-->{{#ifeq: {{{439|x}}}|{{{439|y}}}|{{Template:Familytree/element|{{{439}}}}}}}<!--
+-->{{#ifeq: {{{440|x}}}|{{{440|y}}}|{{Template:Familytree/element|{{{440}}}}}}}<!--
+-->{{#ifeq: {{{441|x}}}|{{{441|y}}}|{{Template:Familytree/element|{{{441}}}}}}}<!--
+-->{{#ifeq: {{{442|x}}}|{{{442|y}}}|{{Template:Familytree/element|{{{442}}}}}}}<!--
+-->{{#ifeq: {{{443|x}}}|{{{443|y}}}|{{Template:Familytree/element|{{{443}}}}}}}<!--
+-->{{#ifeq: {{{444|x}}}|{{{444|y}}}|{{Template:Familytree/element|{{{444}}}}}}}<!--
+-->{{#ifeq: {{{445|x}}}|{{{445|y}}}|{{Template:Familytree/element|{{{445}}}}}}}<!--
+-->{{#ifeq: {{{446|x}}}|{{{446|y}}}|{{Template:Familytree/element|{{{446}}}}}}}<!--
+-->{{#ifeq: {{{447|x}}}|{{{447|y}}}|{{Template:Familytree/element|{{{447}}}}}}}<!--
+-->{{#ifeq: {{{448|x}}}|{{{448|y}}}|{{Template:Familytree/element|{{{448}}}}}}}<!--
+-->{{#ifeq: {{{449|x}}}|{{{449|y}}}|{{Template:Familytree/element|{{{449}}}}}}}<!--
+-->{{#ifeq: {{{450|x}}}|{{{450|y}}}|{{Template:Familytree/element|{{{450}}}}}}}<!--
+-->{{#ifeq: {{{451|x}}}|{{{451|y}}}|{{Template:Familytree/element|{{{451}}}}}}}<!--
+-->{{#ifeq: {{{452|x}}}|{{{452|y}}}|{{Template:Familytree/element|{{{452}}}}}}}<!--
+-->{{#ifeq: {{{453|x}}}|{{{453|y}}}|{{Template:Familytree/element|{{{453}}}}}}}<!--
+-->{{#ifeq: {{{454|x}}}|{{{454|y}}}|{{Template:Familytree/element|{{{454}}}}}}}<!--
+-->{{#ifeq: {{{455|x}}}|{{{455|y}}}|{{Template:Familytree/element|{{{455}}}}}}}<!--
+-->{{#ifeq: {{{456|x}}}|{{{456|y}}}|{{Template:Familytree/element|{{{456}}}}}}}<!--
+-->{{#ifeq: {{{457|x}}}|{{{457|y}}}|{{Template:Familytree/element|{{{457}}}}}}}<!--
+-->{{#ifeq: {{{458|x}}}|{{{458|y}}}|{{Template:Familytree/element|{{{458}}}}}}}<!--
+-->{{#ifeq: {{{459|x}}}|{{{459|y}}}|{{Template:Familytree/element|{{{459}}}}}}}<!--
+-->{{#ifeq: {{{460|x}}}|{{{460|y}}}|{{Template:Familytree/element|{{{460}}}}}}}<!--
+-->{{#ifeq: {{{461|x}}}|{{{461|y}}}|{{Template:Familytree/element|{{{461}}}}}}}<!--
+-->{{#ifeq: {{{462|x}}}|{{{462|y}}}|{{Template:Familytree/element|{{{462}}}}}}}<!--
+-->{{#ifeq: {{{463|x}}}|{{{463|y}}}|{{Template:Familytree/element|{{{463}}}}}}}<!--
+-->{{#ifeq: {{{464|x}}}|{{{464|y}}}|{{Template:Familytree/element|{{{464}}}}}}}<!--
+-->{{#ifeq: {{{465|x}}}|{{{465|y}}}|{{Template:Familytree/element|{{{465}}}}}}}<!--
+-->{{#ifeq: {{{466|x}}}|{{{466|y}}}|{{Template:Familytree/element|{{{466}}}}}}}<!--
+-->{{#ifeq: {{{467|x}}}|{{{467|y}}}|{{Template:Familytree/element|{{{467}}}}}}}<!--
+-->{{#ifeq: {{{468|x}}}|{{{468|y}}}|{{Template:Familytree/element|{{{468}}}}}}}<!--
+-->{{#ifeq: {{{469|x}}}|{{{469|y}}}|{{Template:Familytree/element|{{{469}}}}}}}<!--
+-->{{#ifeq: {{{470|x}}}|{{{470|y}}}|{{Template:Familytree/element|{{{470}}}}}}}<!--
+-->{{#ifeq: {{{471|x}}}|{{{471|y}}}|{{Template:Familytree/element|{{{471}}}}}}}<!--
+-->{{#ifeq: {{{472|x}}}|{{{472|y}}}|{{Template:Familytree/element|{{{472}}}}}}}<!--
+-->{{#ifeq: {{{473|x}}}|{{{473|y}}}|{{Template:Familytree/element|{{{473}}}}}}}<!--
+-->{{#ifeq: {{{474|x}}}|{{{474|y}}}|{{Template:Familytree/element|{{{474}}}}}}}<!--
+-->{{#ifeq: {{{475|x}}}|{{{475|y}}}|{{Template:Familytree/element|{{{475}}}}}}}<!--
+-->{{#ifeq: {{{476|x}}}|{{{476|y}}}|{{Template:Familytree/element|{{{476}}}}}}}<!--
+-->{{#ifeq: {{{477|x}}}|{{{477|y}}}|{{Template:Familytree/element|{{{477}}}}}}}<!--
+-->{{#ifeq: {{{478|x}}}|{{{478|y}}}|{{Template:Familytree/element|{{{478}}}}}}}<!--
+-->{{#ifeq: {{{479|x}}}|{{{479|y}}}|{{Template:Familytree/element|{{{479}}}}}}}<!--
+-->{{#ifeq: {{{480|x}}}|{{{480|y}}}|{{Template:Familytree/element|{{{480}}}}}}}<!--
+-->{{#ifeq: {{{481|x}}}|{{{481|y}}}|{{Template:Familytree/element|{{{481}}}}}}}<!--
+-->{{#ifeq: {{{482|x}}}|{{{482|y}}}|{{Template:Familytree/element|{{{482}}}}}}}<!--
+-->{{#ifeq: {{{483|x}}}|{{{483|y}}}|{{Template:Familytree/element|{{{483}}}}}}}<!--
+-->{{#ifeq: {{{484|x}}}|{{{484|y}}}|{{Template:Familytree/element|{{{484}}}}}}}<!--
+-->{{#ifeq: {{{485|x}}}|{{{485|y}}}|{{Template:Familytree/element|{{{485}}}}}}}<!--
+-->{{#ifeq: {{{486|x}}}|{{{486|y}}}|{{Template:Familytree/element|{{{486}}}}}}}<!--
+-->{{#ifeq: {{{487|x}}}|{{{487|y}}}|{{Template:Familytree/element|{{{487}}}}}}}<!--
+-->{{#ifeq: {{{488|x}}}|{{{488|y}}}|{{Template:Familytree/element|{{{488}}}}}}}<!--
+-->{{#ifeq: {{{489|x}}}|{{{489|y}}}|{{Template:Familytree/element|{{{489}}}}}}}<!--
+-->{{#ifeq: {{{490|x}}}|{{{490|y}}}|{{Template:Familytree/element|{{{490}}}}}}}<!--
+-->{{#ifeq: {{{491|x}}}|{{{491|y}}}|{{Template:Familytree/element|{{{491}}}}}}}<!--
+-->{{#ifeq: {{{492|x}}}|{{{492|y}}}|{{Template:Familytree/element|{{{492}}}}}}}<!--
+-->{{#ifeq: {{{493|x}}}|{{{493|y}}}|{{Template:Familytree/element|{{{493}}}}}}}<!--
+-->{{#ifeq: {{{494|x}}}|{{{494|y}}}|{{Template:Familytree/element|{{{494}}}}}}}<!--
+-->{{#ifeq: {{{495|x}}}|{{{495|y}}}|{{Template:Familytree/element|{{{495}}}}}}}<!--
+-->{{#ifeq: {{{496|x}}}|{{{496|y}}}|{{Template:Familytree/element|{{{496}}}}}}}<!--
+-->{{#ifeq: {{{497|x}}}|{{{497|y}}}|{{Template:Familytree/element|{{{497}}}}}}}<!--
+-->{{#ifeq: {{{498|x}}}|{{{498|y}}}|{{Template:Familytree/element|{{{498}}}}}}}<!--
+-->{{#ifeq: {{{499|x}}}|{{{499|y}}}|{{Template:Familytree/element|{{{499}}}}}}}<!--
+-->{{#ifeq: {{{500|x}}}|{{{500|y}}}|{{Template:Familytree/element|{{{500}}}}}}}<!--
+-->{{#ifeq: {{{501|x}}}|{{{501|y}}}|{{Template:Familytree/element|{{{501}}}}}}}<!--
+-->{{#ifeq: {{{502|x}}}|{{{502|y}}}|{{Template:Familytree/element|{{{502}}}}}}}<!--
+-->{{#ifeq: {{{503|x}}}|{{{503|y}}}|{{Template:Familytree/element|{{{503}}}}}}}<!--
+-->{{#ifeq: {{{504|x}}}|{{{504|y}}}|{{Template:Familytree/element|{{{504}}}}}}}<!--
+-->{{#ifeq: {{{505|x}}}|{{{505|y}}}|{{Template:Familytree/element|{{{505}}}}}}}<!--
+-->{{#ifeq: {{{506|x}}}|{{{506|y}}}|{{Template:Familytree/element|{{{506}}}}}}}<!--
+-->{{#ifeq: {{{507|x}}}|{{{507|y}}}|{{Template:Familytree/element|{{{507}}}}}}}<!--
+-->{{#ifeq: {{{508|x}}}|{{{508|y}}}|{{Template:Familytree/element|{{{508}}}}}}}<!--
+-->{{#ifeq: {{{509|x}}}|{{{509|y}}}|{{Template:Familytree/element|{{{509}}}}}}}<!--
+-->{{#ifeq: {{{510|x}}}|{{{510|y}}}|{{Template:Familytree/element|{{{510}}}}}}}<!--
+-->{{#ifeq: {{{511|x}}}|{{{511|y}}}|{{Template:Familytree/element|{{{511}}}}}}}<!--
+-->{{#ifeq: {{{512|x}}}|{{{512|y}}}|{{Template:Familytree/element|{{{512}}}}}}}<!--
+-->{{#ifeq: {{{513|x}}}|{{{513|y}}}|{{Template:Familytree/element|{{{513}}}}}}}<!--
+-->{{#ifeq: {{{514|x}}}|{{{514|y}}}|{{Template:Familytree/element|{{{514}}}}}}}<!--
+-->{{#ifeq: {{{515|x}}}|{{{515|y}}}|{{Template:Familytree/element|{{{515}}}}}}}<!--
+-->{{#ifeq: {{{516|x}}}|{{{516|y}}}|{{Template:Familytree/element|{{{516}}}}}}}<!--
+-->{{#ifeq: {{{517|x}}}|{{{517|y}}}|{{Template:Familytree/element|{{{517}}}}}}}<!--
+-->{{#ifeq: {{{518|x}}}|{{{518|y}}}|{{Template:Familytree/element|{{{518}}}}}}}<!--
+-->{{#ifeq: {{{519|x}}}|{{{519|y}}}|{{Template:Familytree/element|{{{519}}}}}}}<!--
+-->{{#ifeq: {{{520|x}}}|{{{520|y}}}|{{Template:Familytree/element|{{{520}}}}}}}<!--
+-->{{#ifeq: {{{521|x}}}|{{{521|y}}}|{{Template:Familytree/element|{{{521}}}}}}}<!--
+-->{{#ifeq: {{{522|x}}}|{{{522|y}}}|{{Template:Familytree/element|{{{522}}}}}}}<!--
+-->{{#ifeq: {{{523|x}}}|{{{523|y}}}|{{Template:Familytree/element|{{{523}}}}}}}<!--
+-->{{#ifeq: {{{524|x}}}|{{{524|y}}}|{{Template:Familytree/element|{{{524}}}}}}}<!--
+-->{{#ifeq: {{{525|x}}}|{{{525|y}}}|{{Template:Familytree/element|{{{525}}}}}}}<!--
+-->{{#ifeq: {{{526|x}}}|{{{526|y}}}|{{Template:Familytree/element|{{{526}}}}}}}<!--
+-->{{#ifeq: {{{527|x}}}|{{{527|y}}}|{{Template:Familytree/element|{{{527}}}}}}}<!--
+-->{{#ifeq: {{{528|x}}}|{{{528|y}}}|{{Template:Familytree/element|{{{528}}}}}}}<!--
+-->{{#ifeq: {{{529|x}}}|{{{529|y}}}|{{Template:Familytree/element|{{{529}}}}}}}<!--
+-->{{#ifeq: {{{530|x}}}|{{{530|y}}}|{{Template:Familytree/element|{{{530}}}}}}}<!--
+-->{{#ifeq: {{{531|x}}}|{{{531|y}}}|{{Template:Familytree/element|{{{531}}}}}}}<!--
+-->{{#ifeq: {{{532|x}}}|{{{532|y}}}|{{Template:Familytree/element|{{{532}}}}}}}<!--
+-->{{#ifeq: {{{533|x}}}|{{{533|y}}}|{{Template:Familytree/element|{{{533}}}}}}}<!--
+-->{{#ifeq: {{{534|x}}}|{{{534|y}}}|{{Template:Familytree/element|{{{534}}}}}}}<!--
+-->{{#ifeq: {{{535|x}}}|{{{535|y}}}|{{Template:Familytree/element|{{{535}}}}}}}<!--
+-->{{#ifeq: {{{536|x}}}|{{{536|y}}}|{{Template:Familytree/element|{{{536}}}}}}}<!--
+-->{{#ifeq: {{{537|x}}}|{{{537|y}}}|{{Template:Familytree/element|{{{537}}}}}}}<!--
+-->{{#ifeq: {{{538|x}}}|{{{538|y}}}|{{Template:Familytree/element|{{{538}}}}}}}<!--
+-->{{#ifeq: {{{539|x}}}|{{{539|y}}}|{{Template:Familytree/element|{{{539}}}}}}}<!--
+-->{{#ifeq: {{{540|x}}}|{{{540|y}}}|{{Template:Familytree/element|{{{540}}}}}}}<!--
+-->{{#ifeq: {{{541|x}}}|{{{541|y}}}|{{Template:Familytree/element|{{{541}}}}}}}<!--
+-->{{#ifeq: {{{542|x}}}|{{{542|y}}}|{{Template:Familytree/element|{{{542}}}}}}}<!--
+-->{{#ifeq: {{{543|x}}}|{{{543|y}}}|{{Template:Familytree/element|{{{543}}}}}}}<!--
+-->{{#ifeq: {{{544|x}}}|{{{544|y}}}|{{Template:Familytree/element|{{{544}}}}}}}<!--
+-->{{#ifeq: {{{545|x}}}|{{{545|y}}}|{{Template:Familytree/element|{{{545}}}}}}}<!--
+-->{{#ifeq: {{{546|x}}}|{{{546|y}}}|{{Template:Familytree/element|{{{546}}}}}}}<!--
+-->{{#ifeq: {{{547|x}}}|{{{547|y}}}|{{Template:Familytree/element|{{{547}}}}}}}<!--
+-->{{#ifeq: {{{548|x}}}|{{{548|y}}}|{{Template:Familytree/element|{{{548}}}}}}}<!--
+-->{{#ifeq: {{{549|x}}}|{{{549|y}}}|{{Template:Familytree/element|{{{549}}}}}}}<!--
+-->{{#ifeq: {{{550|x}}}|{{{550|y}}}|{{Template:Familytree/element|{{{550}}}}}}}<!--
+-->{{#ifeq: {{{551|x}}}|{{{551|y}}}|{{Template:Familytree/element|{{{551}}}}}}}<!--
+-->{{#ifeq: {{{552|x}}}|{{{552|y}}}|{{Template:Familytree/element|{{{552}}}}}}}<!--
+-->{{#ifeq: {{{553|x}}}|{{{553|y}}}|{{Template:Familytree/element|{{{553}}}}}}}<!--
+-->{{#ifeq: {{{554|x}}}|{{{554|y}}}|{{Template:Familytree/element|{{{554}}}}}}}<!--
+-->{{#ifeq: {{{555|x}}}|{{{555|y}}}|{{Template:Familytree/element|{{{555}}}}}}}<!--
+-->{{#ifeq: {{{556|x}}}|{{{556|y}}}|{{Template:Familytree/element|{{{556}}}}}}}<!--
+-->{{#ifeq: {{{557|x}}}|{{{557|y}}}|{{Template:Familytree/element|{{{557}}}}}}}<!--
+-->{{#ifeq: {{{558|x}}}|{{{558|y}}}|{{Template:Familytree/element|{{{558}}}}}}}<!--
+-->{{#ifeq: {{{559|x}}}|{{{559|y}}}|{{Template:Familytree/element|{{{559}}}}}}}<!--
+-->{{#ifeq: {{{560|x}}}|{{{560|y}}}|{{Template:Familytree/element|{{{560}}}}}}}<!--
+-->{{#ifeq: {{{561|x}}}|{{{561|y}}}|{{Template:Familytree/element|{{{561}}}}}}}<!--
+-->{{#ifeq: {{{562|x}}}|{{{562|y}}}|{{Template:Familytree/element|{{{562}}}}}}}<!--
+-->{{#ifeq: {{{563|x}}}|{{{563|y}}}|{{Template:Familytree/element|{{{563}}}}}}}<!--
+-->{{#ifeq: {{{564|x}}}|{{{564|y}}}|{{Template:Familytree/element|{{{564}}}}}}}<!--
+-->{{#ifeq: {{{565|x}}}|{{{565|y}}}|{{Template:Familytree/element|{{{565}}}}}}}<!--
+-->{{#ifeq: {{{566|x}}}|{{{566|y}}}|{{Template:Familytree/element|{{{566}}}}}}}<!--
+-->{{#ifeq: {{{567|x}}}|{{{567|y}}}|{{Template:Familytree/element|{{{567}}}}}}}<!--
+-->{{#ifeq: {{{568|x}}}|{{{568|y}}}|{{Template:Familytree/element|{{{568}}}}}}}<!--
+-->{{#ifeq: {{{569|x}}}|{{{569|y}}}|{{Template:Familytree/element|{{{569}}}}}}}<!--
+-->{{#ifeq: {{{570|x}}}|{{{570|y}}}|{{Template:Familytree/element|{{{570}}}}}}}<!--
+-->{{#ifeq: {{{571|x}}}|{{{571|y}}}|{{Template:Familytree/element|{{{571}}}}}}}<!--
+-->{{#ifeq: {{{572|x}}}|{{{572|y}}}|{{Template:Familytree/element|{{{572}}}}}}}<!--
+-->{{#ifeq: {{{573|x}}}|{{{573|y}}}|{{Template:Familytree/element|{{{573}}}}}}}<!--
+-->{{#ifeq: {{{574|x}}}|{{{574|y}}}|{{Template:Familytree/element|{{{574}}}}}}}<!--
+-->{{#ifeq: {{{575|x}}}|{{{575|y}}}|{{Template:Familytree/element|{{{575}}}}}}}<!--
+-->{{#ifeq: {{{576|x}}}|{{{576|y}}}|{{Template:Familytree/element|{{{576}}}}}}}<!--
+-->{{#ifeq: {{{577|x}}}|{{{577|y}}}|{{Template:Familytree/element|{{{577}}}}}}}<!--
+-->{{#ifeq: {{{578|x}}}|{{{578|y}}}|{{Template:Familytree/element|{{{578}}}}}}}<!--
+-->{{#ifeq: {{{579|x}}}|{{{579|y}}}|{{Template:Familytree/element|{{{579}}}}}}}<!--
+-->{{#ifeq: {{{580|x}}}|{{{580|y}}}|{{Template:Familytree/element|{{{580}}}}}}}<!--
+-->{{#ifeq: {{{581|x}}}|{{{581|y}}}|{{Template:Familytree/element|{{{581}}}}}}}<!--
+-->{{#ifeq: {{{582|x}}}|{{{582|y}}}|{{Template:Familytree/element|{{{582}}}}}}}<!--
+-->{{#ifeq: {{{583|x}}}|{{{583|y}}}|{{Template:Familytree/element|{{{583}}}}}}}<!--
+-->{{#ifeq: {{{584|x}}}|{{{584|y}}}|{{Template:Familytree/element|{{{584}}}}}}}<!--
+-->{{#ifeq: {{{585|x}}}|{{{585|y}}}|{{Template:Familytree/element|{{{585}}}}}}}<!--
+-->{{#ifeq: {{{586|x}}}|{{{586|y}}}|{{Template:Familytree/element|{{{586}}}}}}}<!--
+-->{{#ifeq: {{{587|x}}}|{{{587|y}}}|{{Template:Familytree/element|{{{587}}}}}}}<!--
+-->{{#ifeq: {{{588|x}}}|{{{588|y}}}|{{Template:Familytree/element|{{{588}}}}}}}<!--
+-->{{#ifeq: {{{589|x}}}|{{{589|y}}}|{{Template:Familytree/element|{{{589}}}}}}}<!--
+-->{{#ifeq: {{{590|x}}}|{{{590|y}}}|{{Template:Familytree/element|{{{590}}}}}}}<!--
+-->{{#ifeq: {{{591|x}}}|{{{591|y}}}|{{Template:Familytree/element|{{{591}}}}}}}<!--
+-->{{#ifeq: {{{592|x}}}|{{{592|y}}}|{{Template:Familytree/element|{{{592}}}}}}}<!--
+-->{{#ifeq: {{{593|x}}}|{{{593|y}}}|{{Template:Familytree/element|{{{593}}}}}}}<!--
+-->{{#ifeq: {{{594|x}}}|{{{594|y}}}|{{Template:Familytree/element|{{{594}}}}}}}<!--
+-->{{#ifeq: {{{595|x}}}|{{{595|y}}}|{{Template:Familytree/element|{{{595}}}}}}}<!--
+-->{{#ifeq: {{{596|x}}}|{{{596|y}}}|{{Template:Familytree/element|{{{596}}}}}}}<!--
+-->{{#ifeq: {{{597|x}}}|{{{597|y}}}|{{Template:Familytree/element|{{{597}}}}}}}<!--
+-->{{#ifeq: {{{598|x}}}|{{{598|y}}}|{{Template:Familytree/element|{{{598}}}}}}}<!--
+-->{{#ifeq: {{{599|x}}}|{{{599|y}}}|{{Template:Familytree/element|{{{599}}}}}}}<!--
+-->{{#ifeq: {{{600|x}}}|{{{600|y}}}|{{Template:Familytree/element|{{{600}}}}}}}<!--
+-->{{#ifeq: {{{601|x}}}|{{{601|y}}}|{{Template:Familytree/element|{{{601}}}}}}}<!--
+-->{{#ifeq: {{{602|x}}}|{{{602|y}}}|{{Template:Familytree/element|{{{602}}}}}}}<!--
+-->{{#ifeq: {{{603|x}}}|{{{603|y}}}|{{Template:Familytree/element|{{{603}}}}}}}<!--
+-->{{#ifeq: {{{604|x}}}|{{{604|y}}}|{{Template:Familytree/element|{{{604}}}}}}}<!--
+-->{{#ifeq: {{{605|x}}}|{{{605|y}}}|{{Template:Familytree/element|{{{605}}}}}}}<!--
+-->{{#ifeq: {{{606|x}}}|{{{606|y}}}|{{Template:Familytree/element|{{{606}}}}}}}<!--
+-->{{#ifeq: {{{607|x}}}|{{{607|y}}}|{{Template:Familytree/element|{{{607}}}}}}}<!--
+-->{{#ifeq: {{{608|x}}}|{{{608|y}}}|{{Template:Familytree/element|{{{608}}}}}}}<!--
+-->{{#ifeq: {{{609|x}}}|{{{609|y}}}|{{Template:Familytree/element|{{{609}}}}}}}<!--
+-->{{#ifeq: {{{610|x}}}|{{{610|y}}}|{{Template:Familytree/element|{{{610}}}}}}}<!--
+-->{{#ifeq: {{{611|x}}}|{{{611|y}}}|{{Template:Familytree/element|{{{611}}}}}}}<!--
+-->{{#ifeq: {{{612|x}}}|{{{612|y}}}|{{Template:Familytree/element|{{{612}}}}}}}<!--
+-->{{#ifeq: {{{613|x}}}|{{{613|y}}}|{{Template:Familytree/element|{{{613}}}}}}}<!--
+-->{{#ifeq: {{{614|x}}}|{{{614|y}}}|{{Template:Familytree/element|{{{614}}}}}}}<!--
+-->{{#ifeq: {{{615|x}}}|{{{615|y}}}|{{Template:Familytree/element|{{{615}}}}}}}<!--
+-->{{#ifeq: {{{616|x}}}|{{{616|y}}}|{{Template:Familytree/element|{{{616}}}}}}}<!--
+-->{{#ifeq: {{{617|x}}}|{{{617|y}}}|{{Template:Familytree/element|{{{617}}}}}}}<!--
+-->{{#ifeq: {{{618|x}}}|{{{618|y}}}|{{Template:Familytree/element|{{{618}}}}}}}<!--
+-->{{#ifeq: {{{619|x}}}|{{{619|y}}}|{{Template:Familytree/element|{{{619}}}}}}}<!--
+-->{{#ifeq: {{{620|x}}}|{{{620|y}}}|{{Template:Familytree/element|{{{620}}}}}}}<!--
+-->{{#ifeq: {{{621|x}}}|{{{621|y}}}|{{Template:Familytree/element|{{{621}}}}}}}<!--
+-->{{#ifeq: {{{622|x}}}|{{{622|y}}}|{{Template:Familytree/element|{{{622}}}}}}}<!--
+-->{{#ifeq: {{{623|x}}}|{{{623|y}}}|{{Template:Familytree/element|{{{623}}}}}}}<!--
+-->{{#ifeq: {{{624|x}}}|{{{624|y}}}|{{Template:Familytree/element|{{{624}}}}}}}<!--
+-->{{#ifeq: {{{625|x}}}|{{{625|y}}}|{{Template:Familytree/element|{{{625}}}}}}}<!--
+-->{{#ifeq: {{{626|x}}}|{{{626|y}}}|{{Template:Familytree/element|{{{626}}}}}}}<!--
+-->{{#ifeq: {{{627|x}}}|{{{627|y}}}|{{Template:Familytree/element|{{{627}}}}}}}<!--
+-->{{#ifeq: {{{628|x}}}|{{{628|y}}}|{{Template:Familytree/element|{{{628}}}}}}}<!--
+-->{{#ifeq: {{{629|x}}}|{{{629|y}}}|{{Template:Familytree/element|{{{629}}}}}}}<!--
+-->{{#ifeq: {{{630|x}}}|{{{630|y}}}|{{Template:Familytree/element|{{{630}}}}}}}<!--
+-->{{#ifeq: {{{631|x}}}|{{{631|y}}}|{{Template:Familytree/element|{{{631}}}}}}}<!--
+-->{{#ifeq: {{{632|x}}}|{{{632|y}}}|{{Template:Familytree/element|{{{632}}}}}}}<!--
+-->{{#ifeq: {{{633|x}}}|{{{633|y}}}|{{Template:Familytree/element|{{{633}}}}}}}<!--
+-->{{#ifeq: {{{634|x}}}|{{{634|y}}}|{{Template:Familytree/element|{{{634}}}}}}}<!--
+-->{{#ifeq: {{{635|x}}}|{{{635|y}}}|{{Template:Familytree/element|{{{635}}}}}}}<!--
+-->{{#ifeq: {{{636|x}}}|{{{636|y}}}|{{Template:Familytree/element|{{{636}}}}}}}<!--
+-->{{#ifeq: {{{637|x}}}|{{{637|y}}}|{{Template:Familytree/element|{{{637}}}}}}}<!--
+-->{{#ifeq: {{{638|x}}}|{{{638|y}}}|{{Template:Familytree/element|{{{638}}}}}}}<!--
+-->{{#ifeq: {{{639|x}}}|{{{639|y}}}|{{Template:Familytree/element|{{{639}}}}}}}<!--
+-->{{#ifeq: {{{640|x}}}|{{{640|y}}}|{{Template:Familytree/element|{{{640}}}}}}}<!--
+-->{{#ifeq: {{{641|x}}}|{{{641|y}}}|{{Template:Familytree/element|{{{641}}}}}}}<!--
+-->{{#ifeq: {{{642|x}}}|{{{642|y}}}|{{Template:Familytree/element|{{{642}}}}}}}<!--
+-->{{#ifeq: {{{643|x}}}|{{{643|y}}}|{{Template:Familytree/element|{{{643}}}}}}}<!--
+-->{{#ifeq: {{{644|x}}}|{{{644|y}}}|{{Template:Familytree/element|{{{644}}}}}}}<!--
+-->{{#ifeq: {{{645|x}}}|{{{645|y}}}|{{Template:Familytree/element|{{{645}}}}}}}<!--
+-->{{#ifeq: {{{646|x}}}|{{{646|y}}}|{{Template:Familytree/element|{{{646}}}}}}}<!--
+-->{{#ifeq: {{{647|x}}}|{{{647|y}}}|{{Template:Familytree/element|{{{647}}}}}}}<!--
+-->{{#ifeq: {{{648|x}}}|{{{648|y}}}|{{Template:Familytree/element|{{{648}}}}}}}<!--
+-->{{#ifeq: {{{649|x}}}|{{{649|y}}}|{{Template:Familytree/element|{{{649}}}}}}}<!--
+-->{{#ifeq: {{{650|x}}}|{{{650|y}}}|{{Template:Familytree/element|{{{650}}}}}}}<!--
+-->{{#ifeq: {{{651|x}}}|{{{651|y}}}|{{Template:Familytree/element|{{{651}}}}}}}<!--
+-->{{#ifeq: {{{652|x}}}|{{{652|y}}}|{{Template:Familytree/element|{{{652}}}}}}}<!--
+-->{{#ifeq: {{{653|x}}}|{{{653|y}}}|{{Template:Familytree/element|{{{653}}}}}}}<!--
+-->{{#ifeq: {{{654|x}}}|{{{654|y}}}|{{Template:Familytree/element|{{{654}}}}}}}<!--
+-->{{#ifeq: {{{655|x}}}|{{{655|y}}}|{{Template:Familytree/element|{{{655}}}}}}}<!--
+-->{{#ifeq: {{{656|x}}}|{{{656|y}}}|{{Template:Familytree/element|{{{656}}}}}}}<!--
+-->{{#ifeq: {{{657|x}}}|{{{657|y}}}|{{Template:Familytree/element|{{{657}}}}}}}<!--
+-->{{#ifeq: {{{658|x}}}|{{{658|y}}}|{{Template:Familytree/element|{{{658}}}}}}}<!--
+-->{{#ifeq: {{{659|x}}}|{{{659|y}}}|{{Template:Familytree/element|{{{659}}}}}}}<!--
+-->{{#ifeq: {{{660|x}}}|{{{660|y}}}|{{Template:Familytree/element|{{{660}}}}}}}<!--
+-->{{#ifeq: {{{661|x}}}|{{{661|y}}}|{{Template:Familytree/element|{{{661}}}}}}}<!--
+-->{{#ifeq: {{{662|x}}}|{{{662|y}}}|{{Template:Familytree/element|{{{662}}}}}}}<!--
+-->{{#ifeq: {{{663|x}}}|{{{663|y}}}|{{Template:Familytree/element|{{{663}}}}}}}<!--
+-->{{#ifeq: {{{664|x}}}|{{{664|y}}}|{{Template:Familytree/element|{{{664}}}}}}}<!--
+-->{{#ifeq: {{{665|x}}}|{{{665|y}}}|{{Template:Familytree/element|{{{665}}}}}}}<!--
+-->{{#ifeq: {{{666|x}}}|{{{666|y}}}|{{Template:Familytree/element|{{{666}}}}}}}<!--
+-->{{#ifeq: {{{667|x}}}|{{{667|y}}}|{{Template:Familytree/element|{{{667}}}}}}}<!--
+-->{{#ifeq: {{{668|x}}}|{{{668|y}}}|{{Template:Familytree/element|{{{668}}}}}}}<!--
+-->{{#ifeq: {{{669|x}}}|{{{669|y}}}|{{Template:Familytree/element|{{{669}}}}}}}<!--
+-->{{#ifeq: {{{670|x}}}|{{{670|y}}}|{{Template:Familytree/element|{{{670}}}}}}}<!--
+-->{{#ifeq: {{{671|x}}}|{{{671|y}}}|{{Template:Familytree/element|{{{671}}}}}}}<!--
+-->{{#ifeq: {{{672|x}}}|{{{672|y}}}|{{Template:Familytree/element|{{{672}}}}}}}<!--
+-->{{#ifeq: {{{673|x}}}|{{{673|y}}}|{{Template:Familytree/element|{{{673}}}}}}}<!--
+-->{{#ifeq: {{{674|x}}}|{{{674|y}}}|{{Template:Familytree/element|{{{674}}}}}}}<!--
+-->{{#ifeq: {{{675|x}}}|{{{675|y}}}|{{Template:Familytree/element|{{{675}}}}}}}<!--
+-->{{#ifeq: {{{676|x}}}|{{{676|y}}}|{{Template:Familytree/element|{{{676}}}}}}}<!--
+-->{{#ifeq: {{{677|x}}}|{{{677|y}}}|{{Template:Familytree/element|{{{677}}}}}}}<!--
+-->{{#ifeq: {{{678|x}}}|{{{678|y}}}|{{Template:Familytree/element|{{{678}}}}}}}<!--
+-->{{#ifeq: {{{679|x}}}|{{{679|y}}}|{{Template:Familytree/element|{{{679}}}}}}}<!--
+-->{{#ifeq: {{{680|x}}}|{{{680|y}}}|{{Template:Familytree/element|{{{680}}}}}}}<!--
+-->{{#ifeq: {{{681|x}}}|{{{681|y}}}|{{Template:Familytree/element|{{{681}}}}}}}<!--
+-->{{#ifeq: {{{682|x}}}|{{{682|y}}}|{{Template:Familytree/element|{{{682}}}}}}}<!--
+-->{{#ifeq: {{{683|x}}}|{{{683|y}}}|{{Template:Familytree/element|{{{683}}}}}}}<!--
+-->{{#ifeq: {{{684|x}}}|{{{684|y}}}|{{Template:Familytree/element|{{{684}}}}}}}<!--
+-->{{#ifeq: {{{685|x}}}|{{{685|y}}}|{{Template:Familytree/element|{{{685}}}}}}}<!--
+-->{{#ifeq: {{{686|x}}}|{{{686|y}}}|{{Template:Familytree/element|{{{686}}}}}}}<!--
+-->{{#ifeq: {{{687|x}}}|{{{687|y}}}|{{Template:Familytree/element|{{{687}}}}}}}<!--
+-->{{#ifeq: {{{688|x}}}|{{{688|y}}}|{{Template:Familytree/element|{{{688}}}}}}}<!--
+-->{{#ifeq: {{{689|x}}}|{{{689|y}}}|{{Template:Familytree/element|{{{689}}}}}}}<!--
+-->{{#ifeq: {{{690|x}}}|{{{690|y}}}|{{Template:Familytree/element|{{{690}}}}}}}<!--
+-->{{#ifeq: {{{691|x}}}|{{{691|y}}}|{{Template:Familytree/element|{{{691}}}}}}}<!--
+-->{{#ifeq: {{{692|x}}}|{{{692|y}}}|{{Template:Familytree/element|{{{692}}}}}}}<!--
+-->{{#ifeq: {{{693|x}}}|{{{693|y}}}|{{Template:Familytree/element|{{{693}}}}}}}<!--
+-->{{#ifeq: {{{694|x}}}|{{{694|y}}}|{{Template:Familytree/element|{{{694}}}}}}}<!--
+-->{{#ifeq: {{{695|x}}}|{{{695|y}}}|{{Template:Familytree/element|{{{695}}}}}}}<!--
+-->{{#ifeq: {{{696|x}}}|{{{696|y}}}|{{Template:Familytree/element|{{{696}}}}}}}<!--
+-->{{#ifeq: {{{697|x}}}|{{{697|y}}}|{{Template:Familytree/element|{{{697}}}}}}}<!--
+-->{{#ifeq: {{{698|x}}}|{{{698|y}}}|{{Template:Familytree/element|{{{698}}}}}}}<!--
+-->{{#ifeq: {{{699|x}}}|{{{699|y}}}|{{Template:Familytree/element|{{{699}}}}}}}<!--
+-->{{#ifeq: {{{700|x}}}|{{{700|y}}}|{{Template:Familytree/element|{{{700}}}}}}}<!--
+-->{{#ifeq: {{{701|x}}}|{{{701|y}}}|{{Template:Familytree/element|{{{701}}}}}}}<!--
+-->{{#ifeq: {{{702|x}}}|{{{702|y}}}|{{Template:Familytree/element|{{{702}}}}}}}<!--
+-->{{#ifeq: {{{703|x}}}|{{{703|y}}}|{{Template:Familytree/element|{{{703}}}}}}}<!--
+-->{{#ifeq: {{{704|x}}}|{{{704|y}}}|{{Template:Familytree/element|{{{704}}}}}}}<!--
+-->{{#ifeq: {{{705|x}}}|{{{705|y}}}|{{Template:Familytree/element|{{{705}}}}}}}<!--
+-->{{#ifeq: {{{706|x}}}|{{{706|y}}}|{{Template:Familytree/element|{{{706}}}}}}}<!--
+-->{{#ifeq: {{{707|x}}}|{{{707|y}}}|{{Template:Familytree/element|{{{707}}}}}}}<!--
+-->{{#ifeq: {{{708|x}}}|{{{708|y}}}|{{Template:Familytree/element|{{{708}}}}}}}<!--
+-->{{#ifeq: {{{709|x}}}|{{{709|y}}}|{{Template:Familytree/element|{{{709}}}}}}}<!--
+-->{{#ifeq: {{{710|x}}}|{{{710|y}}}|{{Template:Familytree/element|{{{710}}}}}}}<!--
+-->{{#ifeq: {{{711|x}}}|{{{711|y}}}|{{Template:Familytree/element|{{{711}}}}}}}<!--
+-->{{#ifeq: {{{712|x}}}|{{{712|y}}}|{{Template:Familytree/element|{{{712}}}}}}}<!--
+-->{{#ifeq: {{{713|x}}}|{{{713|y}}}|{{Template:Familytree/element|{{{713}}}}}}}<!--
+-->{{#ifeq: {{{714|x}}}|{{{714|y}}}|{{Template:Familytree/element|{{{714}}}}}}}<!--
+-->{{#ifeq: {{{715|x}}}|{{{715|y}}}|{{Template:Familytree/element|{{{715}}}}}}}<!--
+-->{{#ifeq: {{{716|x}}}|{{{716|y}}}|{{Template:Familytree/element|{{{716}}}}}}}<!--
+-->{{#ifeq: {{{717|x}}}|{{{717|y}}}|{{Template:Familytree/element|{{{717}}}}}}}<!--
+-->{{#ifeq: {{{718|x}}}|{{{718|y}}}|{{Template:Familytree/element|{{{718}}}}}}}<!--
+-->{{#ifeq: {{{719|x}}}|{{{719|y}}}|{{Template:Familytree/element|{{{719}}}}}}}<!--
+-->{{#ifeq: {{{720|x}}}|{{{720|y}}}|{{Template:Familytree/element|{{{720}}}}}}}<!--
+-->{{#ifeq: {{{721|x}}}|{{{721|y}}}|{{Template:Familytree/element|{{{721}}}}}}}<!--
+-->{{#ifeq: {{{722|x}}}|{{{722|y}}}|{{Template:Familytree/element|{{{722}}}}}}}<!--
+-->{{#ifeq: {{{723|x}}}|{{{723|y}}}|{{Template:Familytree/element|{{{723}}}}}}}<!--
+-->{{#ifeq: {{{724|x}}}|{{{724|y}}}|{{Template:Familytree/element|{{{724}}}}}}}<!--
+-->{{#ifeq: {{{725|x}}}|{{{725|y}}}|{{Template:Familytree/element|{{{725}}}}}}}<!--
+-->{{#ifeq: {{{726|x}}}|{{{726|y}}}|{{Template:Familytree/element|{{{726}}}}}}}<!--
+-->{{#ifeq: {{{727|x}}}|{{{727|y}}}|{{Template:Familytree/element|{{{727}}}}}}}<!--
+-->{{#ifeq: {{{728|x}}}|{{{728|y}}}|{{Template:Familytree/element|{{{728}}}}}}}<!--
+-->{{#ifeq: {{{729|x}}}|{{{729|y}}}|{{Template:Familytree/element|{{{729}}}}}}}<!--
+-->{{#ifeq: {{{730|x}}}|{{{730|y}}}|{{Template:Familytree/element|{{{730}}}}}}}<!--
+-->{{#ifeq: {{{731|x}}}|{{{731|y}}}|{{Template:Familytree/element|{{{731}}}}}}}<!--
+-->{{#ifeq: {{{732|x}}}|{{{732|y}}}|{{Template:Familytree/element|{{{732}}}}}}}<!--
+-->{{#ifeq: {{{733|x}}}|{{{733|y}}}|{{Template:Familytree/element|{{{733}}}}}}}<!--
+-->{{#ifeq: {{{734|x}}}|{{{734|y}}}|{{Template:Familytree/element|{{{734}}}}}}}<!--
+-->{{#ifeq: {{{735|x}}}|{{{735|y}}}|{{Template:Familytree/element|{{{735}}}}}}}<!--
+-->{{#ifeq: {{{736|x}}}|{{{736|y}}}|{{Template:Familytree/element|{{{736}}}}}}}<!--
+-->{{#ifeq: {{{737|x}}}|{{{737|y}}}|{{Template:Familytree/element|{{{737}}}}}}}<!--
+-->{{#ifeq: {{{738|x}}}|{{{738|y}}}|{{Template:Familytree/element|{{{738}}}}}}}<!--
+-->{{#ifeq: {{{739|x}}}|{{{739|y}}}|{{Template:Familytree/element|{{{739}}}}}}}<!--
+-->{{#ifeq: {{{740|x}}}|{{{740|y}}}|{{Template:Familytree/element|{{{740}}}}}}}<!--
+-->{{#ifeq: {{{741|x}}}|{{{741|y}}}|{{Template:Familytree/element|{{{741}}}}}}}<!--
+-->{{#ifeq: {{{742|x}}}|{{{742|y}}}|{{Template:Familytree/element|{{{742}}}}}}}<!--
+-->{{#ifeq: {{{743|x}}}|{{{743|y}}}|{{Template:Familytree/element|{{{743}}}}}}}<!--
+-->{{#ifeq: {{{744|x}}}|{{{744|y}}}|{{Template:Familytree/element|{{{744}}}}}}}<!--
+-->{{#ifeq: {{{745|x}}}|{{{745|y}}}|{{Template:Familytree/element|{{{745}}}}}}}<!--
+-->{{#ifeq: {{{746|x}}}|{{{746|y}}}|{{Template:Familytree/element|{{{746}}}}}}}<!--
+-->{{#ifeq: {{{747|x}}}|{{{747|y}}}|{{Template:Familytree/element|{{{747}}}}}}}<!--
+-->{{#ifeq: {{{748|x}}}|{{{748|y}}}|{{Template:Familytree/element|{{{748}}}}}}}<!--
+-->{{#ifeq: {{{749|x}}}|{{{749|y}}}|{{Template:Familytree/element|{{{749}}}}}}}<!--
+-->{{#ifeq: {{{750|x}}}|{{{750|y}}}|{{Template:Familytree/element|{{{750}}}}}}}
+</tr></table></includeonly><noinclude>
+:'''ATTENZIONE''': Template complesso che è utilizzato all'interno di altri template. NON MODIFICARE a meno di essere utenti esperti e pronti a rimediare ai danni causati!
+
+Il template FamilyTree è utilizzato all'interno di altri template per la costruzione di Alberi Genealogici.
+
+== Uso ==
+Il template accetta fino a '''750''' parametri che descrivono il contenuto dell'albero genealogico. Ogni parametro specifica una '''casella''' dell'albero, una '''linea''' che collega le caselle o un '''ritorno a capo'''. L'albero si costruisce quindi specificando riga per riga gli elementi da inserire.
+
+* '''Linee''': Le linee si creano attraverso un simbolo, da utilizzare come parametro nel template, seguendo le indicazioni delle tabelle qui sotto. Si possono avere linee solide, tratteggiate, incroci o angoli. Se si inserisce uno o più caratteri di spazio, si crea una ''linea vuota'', utile per allineare gli elementi su più righe.
+{| style="float:left;margin-left:1em;" class="wikitable"
+|+ '''Linee solide:'''
+|-
+| <span style="font-size:larger;"><code>,</code></span>
+|	style="border:1px solid gray;"| {{Familytree|,}}
+| <span style="font-size:larger;"><code>v</code></span>
+|	style="border:1px solid gray;"| {{Familytree|v}}
+| <span style="font-size:larger;"><code>.</code></span>
+|	style="border:1px solid gray;"| {{Familytree|.}}
+|-
+| <span style="font-size:larger;"><code>)</code></span>
+|	style="border:1px solid gray;"| {{Familytree|)}}
+| <span style="font-size:larger;"><code>+</code></span>
+|	style="border:1px solid gray;"| {{Familytree|+}}
+| <span style="font-size:larger;"><code>(</code></span>
+|	style="border:1px solid gray;"| {{Familytree|(}}
+|-
+| <span style="font-size:larger;"><code>`</code></span>
+|	style="border:1px solid gray;"| {{Familytree|`}}
+| <span style="font-size:larger;"><code>^</code></span>
+|	style="border:1px solid gray;"| {{Familytree|^}}
+| <span style="font-size:larger;"><code>'</code></span>
+|	style="border:1px solid gray;"| {{Familytree|'}}
+|-
+| <span style="font-size:larger;"><code>-</code></span>
+|	style="border:1px solid gray;"| {{Familytree|-}}
+| <span style="font-size:larger;"><code>!</code></span>
+|	style="border:1px solid gray;"| {{Familytree|!}}
+| <span style="font-size:larger;"><code> </code></span>
+|	style="border:1px solid gray;"| {{Familytree| }}
+|}
+{| style="float:left;margin-left:1em;" class="wikitable"
+|+ '''Linee tratteggiate:'''
+|-
+| <span style="font-size:larger;"><code>F</code></span>
+|	style="border:1px solid gray;"| {{Familytree|F}}
+| <span style="font-size:larger;"><code>V</code></span>
+|	style="border:1px solid gray;"| {{Familytree|V}}
+| <span style="font-size:larger;"><code>7</code></span>
+|	style="border:1px solid gray;"| {{Familytree|7}}
+|-
+| <span style="font-size:larger;"><code>D</code></span>
+|	style="border:1px solid gray;"| {{Familytree|D}}
+| <span style="font-size:larger;"><code>%</code></span>
+|	style="border:1px solid gray;"| {{Familytree|%}}
+| <span style="font-size:larger;"><code>C</code></span>
+|	style="border:1px solid gray;"| {{Familytree|C}}
+|-
+| <span style="font-size:larger;"><code>L</code></span>
+|	style="border: 1px solid gray"| {{Familytree|L}}
+| <span style="font-size:larger;"><code>A</code></span>
+|	style="border: 1px solid gray"| {{Familytree|A}}
+| <span style="font-size:larger;"><code>J</code></span>
+|	style="border: 1px solid gray"| {{Familytree|J}}
+|-
+| <span style="font-size:larger;"><code>~</code></span>
+|	style="border:1px solid gray;"| {{Familytree|~}}
+| <span style="font-size:larger;"><code>:</code></span>
+|	style="border:1px solid gray;"| {{Familytree|:}}
+| <span style="font-size:larger;"><code> </code></span>
+|	style="border:1px solid gray;"| {{Familytree| }}
+|}
+{|style="float:left;margin-left:1em;" class="wikitable"
+|+ '''Misto (1):'''
+|-
+| <span style="font-size:larger;"><code>r</code></span>
+|	style="border:1px solid gray;"| {{Familytree|r}}
+| <span style="font-size:larger;"><code>y</code></span>
+|	style="border:1px solid gray;"| {{Familytree|y}}
+| <span style="font-size:larger;"><code>n</code></span>
+|	style="border:1px solid gray;"| {{Familytree|n}}
+|-
+| <span style="font-size:larger;"><code>]</code></span>
+|	style="border:1px solid gray;"| {{Familytree|]}}
+| <span style="font-size:larger;"><code>#</code></span>
+|	style="border:1px solid gray;"| {{Familytree|#}}
+| <span style="font-size:larger;"><code>[</code></span>
+|	style="border:1px solid gray;"| {{Familytree|[}}
+|-
+| <span style="font-size:larger;"><code>c</code></span>
+|	style="border:1px solid gray;"| {{Familytree|c}}
+| <span style="font-size:larger;"><code>h</code></span>
+|	style="border:1px solid gray;"| {{Familytree|h}}
+| <span style="font-size:larger;"><code>j</code></span>
+|	style="border:1px solid gray;"| {{Familytree|j}}
+|-
+| <span style="font-size:larger;"><code>~</code></span>
+|	style="border:1px solid gray;"| {{Familytree|~}}
+| <span style="font-size:larger;"><code>!</code></span>
+|	style="border:1px solid gray;"| {{Familytree|!}}
+| <span style="font-size:larger;"><code> </code></span>
+|	style="border:1px solid gray;"| {{Familytree| }}
+|}
+{|style="float:left;margin-left:1em;" class="wikitable"
+|+ '''Misto (2):'''
+|-
+| <span style="font-size:larger;"><code>p</code></span>
+|	style="border:1px solid gray;"| {{Familytree|p}}
+| <span style="font-size:larger;"><code>u</code></span>
+|	style="border:1px solid gray;"| {{Familytree|u}}
+| <span style="font-size:larger;"><code>q</code></span>
+|	style="border:1px solid gray;"| {{Familytree|q}}
+|-
+| <span style="font-size:larger;"><code>}</code></span>
+|	style="border:1px solid gray;"| {{Familytree|} }}
+| <span style="font-size:larger;"><code>*</code></span>
+|	style="border:1px solid gray;"| {{Familytree|*}}
+| <span style="font-size:larger;"><code>{</code></span>
+|	style="border:1px solid gray;"| {{Familytree|{}}
+|-
+| <span style="font-size:larger;"><code>b</code></span>
+|	style="border:1px solid gray;"| {{Familytree|b}}
+| <span style="font-size:larger;"><code>t</code></span>
+|	style="border:1px solid gray;"| {{Familytree|t}}
+| <span style="font-size:larger;"><code>d</code></span>
+|	style="border:1px solid gray;"| {{Familytree|d}}
+|-
+| <span style="font-size:larger;"><code>-</code></span>
+|	style="border:1px solid gray;"| {{Familytree|-}}
+| <span style="font-size:larger;"><code>:</code></span>
+|	style="border:1px solid gray;"| {{Familytree|:}}
+| <span style="font-size:larger;"><code> </code></span>
+|	style="border:1px solid gray;"| {{Familytree| }}
+|}
+<br style="clear:both" />
+* '''Caselle''': Se il parametro inserito è più lungo di due caratteri (quindi è una parola compiuta), viene creata automaticamente una casella. Le caselle sono lunghe come 3 elementi di linea in orizzontale: questo è importante da considerare per allinare caselle e linee tra più righe dell'albero.
+
+* '''Ritorno a capo''': Il simbolo <code>_</code> (underscore) segnala la fine di una riga dell'albero.
+
+==Esempio ==
+Questo codice:
+<pre>
+{{Familytree
+|Nonno|y|Nonna | |Nonna|_
+| | | |!| |  | | | |!| |_
+| | | Papà |~|y|~| Mamma |_
+| | | |  | | |!| | |   | |_
+| |  | | | | Io! | |   | |_
+}}
+</pre>
+
+produce
+{{Familytree
+|Nonno|y|Nonna | |Nonna|_
+| | | |!| |  | | | |!| |_
+| | | Papà |~|y|~| Mamma |_
+| | | |  | | |!| | |   | |_
+| |  | | | | Io! | |   | |_
+}}
+
+[[Categoria:Template Alberi Genealogici|Familytree]]</noinclude>

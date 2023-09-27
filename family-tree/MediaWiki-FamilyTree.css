@@ -1,0 +1,50 @@
+/* Styles for Template:Familytree/element */
+.family-tree-table-cell {
+  margin: 0;
+  padding: 0;
+}
+
+.family-tree-line-table {
+  border-spacing: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.family-tree-line {
+  width: 1em;
+  height: 1em;
+}
+
+.family-tree-line-dashed-right {
+  border-right: 1px dashed #8B4513;
+}
+
+.family-tree-line-dashed-bottom {
+  border-bottom: 1px dashed #8B4513;
+}
+
+.family-tree-line-solid-right {
+  border-right: 1px solid #8B4513;
+}
+
+.family-tree-line-solid-bottom {
+  border-bottom: 1px solid #8B4513;
+}
+
+.family-tree-element {
+  background-color: var(--theme-page-text-mix-color-95);
+  color: var(--theme-page-text-color);
+  border: 1px solid var(--theme-border-color);
+  box-shadow: 0px 2px 5px var(--theme-border-color);
+  padding: 0.2em;
+  text-align: center;
+}
+
+/* fix for broken lines in familytree */
+.familytree, table.family-tree-line-table {
+  height:100%;
+}
+
+table.family-tree-line-table {
+  width: 100%;
+}
