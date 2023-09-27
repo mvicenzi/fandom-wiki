@@ -1,0 +1,33 @@
+<includeonly><div style="width: 866px; display:inline-flex; align-items: center;><!--
+--><div style="width:fit-content; font-weight: bold; font-family: Burbank Bold; font-size:xxx-large; text-align:center;">PAGE {{{page|1}}}</span></div><!--
+-->{{#switch: {{{type|P1}}}<!--
+---->|P1|Q1=<div style="width:85%; margin-left:20px; padding: 5px 7px 0px 7px; font-weight: bold; border-bottom:7px solid #1E1E1E; text-align: end;">&nbsp;&nbsp;&nbsp;0 <span style="color:#2261FE; font-style:italic;">/ {{{claimed|10}}} CLAIMED</span></div><!--
+---->|P=<div style="width:85%; margin-left:10px; padding: 5px 7px 5px 7px; color: white; font-weight: bold; background-color:{{{bkgcolor|#01309B}}}; clip-path: polygon(1% 0, 100% 0%, 99% 100%, 0 100%); text-align:start">[[File:Lock_-_Icon_-_Fortnite.png|30px|class=icon-rotate|link=]]&nbsp;&nbsp;&nbsp;Claim '''{{{claim|4}}} more rewards''' or reach '''Level {{{level|10}}}''' to unlock page!</div><!--
+---->|B=<div style="width:85%; margin-left:10px; padding: 5px 7px 5px 7px; color: white; font-weight: bold; background-color:{{{bkgcolor|#01309B}}}; clip-path: polygon(1% 0, 100% 0%, 99% 100%, 0 100%); text-align:start">[[File:Lock_-_Icon_-_Fortnite.png|30px|class=icon-rotate|link=]]&nbsp;&nbsp;&nbsp;Claim '''{{{claim|100}}} more rewards''' to unlock page!</div><!--
+---->|Q2=<div style="width:85%; margin-left:10px; padding: 5px 7px 5px 7px; color: white; font-weight: bold; background-color:{{{bkgcolor|#01309B}}}; clip-path: polygon(1% 0, 100% 0%, 99% 100%, 0 100%); text-align:start">[[File:Lock_-_Icon_-_Fortnite.png|30px|class=icon-rotate|link=]]&nbsp;&nbsp;&nbsp;Complete '''{{{complete|7}}} quests''' to unlock page!</div><!--
+-->}}</div></includeonly>
+<noinclude>
+__NOTOC__
+== Usage ==
+=== Battle Pass (page 1) ===
+<pre>{{BattlePassRewardPage/header|type=P1|page=1|claimed=10}}</pre>
+{{BattlePassRewardPage/header|type=P1|page=1|claimed=10}}
+
+=== Battle Pass (generic page) ===
+<pre>{{BattlePassRewardPage/header|type=P|bkgcolor=#01309B|page=5|claim=25|level=40}}</pre>
+{{BattlePassRewardPage/header|type=P|bkgcolor=#01309B|page=5|claim=25|level=40}}
+
+=== Bonus rewards (generic page) ===
+<pre>{{BattlePassRewardPage/header|type=B|bkgcolor=#01309B|page=2|claim=200}}</pre>
+{{BattlePassRewardPage/header|type=B|bkgcolor=#01309B|page=2|claim=200}}
+
+=== Quest rewards (page 1) ===
+<pre>{{BattlePassRewardPage/header|type=Q1|page=1|claimed=10}}</pre>
+{{BattlePassRewardPage/header|type=Q1|page=1|claimed=10}}
+
+=== Quest rewards (page 2) ===
+<pre>{{BattlePassRewardPage/header|type=Q2|page=1|claimed=10}}</pre>
+{{BattlePassRewardPage/header|type=Q2|page=2|complete=7}}
+
+[[Category:Battle Pass templates]]
+</noinclude>
