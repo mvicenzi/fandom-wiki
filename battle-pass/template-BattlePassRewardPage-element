@@ -1,0 +1,15 @@
+<includeonly>
+{{#ifexpr: {{#len:{{{1}}}}} <= 1 |
+<!-- -->{{#switch: {{{1}}}
+<!-- --->|_=</tr><tr>
+<!-- --->|w=<td class="battle-pass-hor-spacing" style="width:16px";>&nbsp;</td>
+<!-- --->|h=<td class="battle-pass-ver-spacing" style="heigth:16px";>&nbsp;</td>
+<!-- --->| =<td class="battle-pass-null-cell">&nbsp;</td>
+<!-- --->|<td class="battle-pass-null-cell">&nbsp;</td>
+<!-- -->}}
+|<!-- multi-character params -->
+<!-- -->{{{1}}}
+}}<!--
+--></includeonly><noinclude>
+[[Category:Battle Pass templates]]
+</noinclude>

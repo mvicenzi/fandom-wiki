@@ -1,0 +1,4 @@
+<includeonly><!--
+--><td class="battle-pass-reward-cell" colspan="{{{cols|1}}}" rowspan="{{{rows|1}}}" style="height:{{{h|135}}}px; width:{{{w|110}}}px; max-width:{{{w|110}}}px; overflow:hidden; vertical-align:bottom; background: radial-gradient(circle, {{{colors|#A1ACB2,#404145}}});">[[File:{{{1|Mystery Reward - Fortnite.png}}}|{{{h|135}}}px|link={{{link|Battle Pass}}}|class=reward-image]]</td><!--
+--></includeonly><!--
+--><noinclude>[[Category:Battle Pass templates]]</noinclude>

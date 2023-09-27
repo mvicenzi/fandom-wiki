@@ -1,0 +1,4 @@
+<includeonly><!--
+--><td class="battle-pass-price-cell" colspan="{{{cols|}}}" style="background: #1E1E1E; height: 35px; text-align: right; clip-path: polygon(0% 5%, 100% 0%, 100% 100%, 0% 100%); top: -5px; position: relative;">{{{1|?}}} {{#ifeq: {{{star|}}}|no||[[File:Battle Star (Chapter 2) - Icon - Fortnite.png|20px]]}}</td><!--
+--></includeonly><!--
+--><noinclude>[[Category:Battle Pass templates]]</noinclude>

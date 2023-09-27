@@ -1,0 +1,25 @@
+/* CSS STYLESHEET FOR THE MOBILE SKIN */
+
+/* Template:BattlePassRewardPage table */
+.article-table-wrapper table.battle-pass tr, .article-table-wrapper table.battle-pass tr > td {
+  border: unset;
+  padding: 0;
+}
+
+.article-table-wrapper table.battle-pass .battle-pass-hor-spacing .battle-pass-ver-spacing {
+  margin: 0;
+}
+
+.article-table-wrapper table.battle-pass tr > td.battle-pass-reward-cell {
+  vertical-align: middle;
+  padding: 0.2em;
+  text-align: center;
+  background: radial-gradient(circle, #79C6FE,#2261FE);
+}
+
+.article-table-wrapper table.battle-pass tr > td.battle-pass-price-cell {
+  vertical-align: middle;
+  padding: 0.2em;
+  text-align: right;
+  background: #1E1E1E;
+}

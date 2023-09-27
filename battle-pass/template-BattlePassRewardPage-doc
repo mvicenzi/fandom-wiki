@@ -1,0 +1,100 @@
+__NOTOC__
+This template is used to build the different layouts of the Battle Pass reward pages in a semi-automatic way. It depends on several building blocks: [[Template:BattlePassRewardPage/element]], [[Template:BattlePassRewardPage/reward]] and [[Template:BattlePassRewardPage/price]].
+
+== Usage ==
+The underlying structure supporting each layout is a standard html table, which is progressively built row by row by specifying the content of each cell. The template accepts up to '''80''' unnamed parameters. Each parameter specifies either a '''reward cell''', a '''reward-price cell''', an '''empty cell''' (for '''vertical''' or '''horizontal''' spacing) or a '''line break''' (end of row).
+
+=== Empty cells ===
+Empty cells are needed to add horizontal or vertical spacing in the table, aligning reward cells and reward-price cells across multiple rows:
+* The character <code>w</code> adds a cell for horizontal spacing (fixed '''w'''idth);
+* The character <code>h</code> adds a cell for vertical specing (fixed '''h'''eight);
+* A whitespace (<code> </code>) or a null parameter adds an empty cell without any fixed size. Its use is discoraged, as its final size will depend on the surrounding cells. Always use either the <code>w</code> or <code>h</code> option.
+
+=== Line break ===
+The underscore symbol <code>_</code> signals the end of a row in the table. The next parameters then becomes the first cell of a new row.
+
+=== Reward cell ===
+A reward cell is specified using [[Template:BattlePassRewardPage/reward]]. The only required parameter is a the reward file name, but other options are available to set its size and the number of columns/rows it spans. The reward link and the background colors can also be set. The default parameters are:
+<pre>{{BattlePassRewardPage/reward|cols=1|rows=1|h=135|w=110|colors=#A1ACB2,#404145|link=Battle Pass|Mystery Reward - Fortnite.png}}</pre>
+The following guidelines describe the typical uses:
+* For a small standard reward cell, leave the default size and colspan/rowspan parameters;
+* For a medium reward cell, covering multiple columns staying in the same row, set <code>cols=3</code> and <code>w=236</code>;
+* For a large reward cell, covering multiple columns and rows, set <code>cols=5</code>, <code>rows=4</code>, <code>w=362</code> and <code>h=321</code>.
+
+=== Reward-price cell ===
+A reward price cell is specified using [[Template:BattlePassRewardPage/price]]. These cells are to be added in a new row, immediately below a row with reward cells. The main parameter is the price. An optional parameter can also be set to hide the star icon or let the cell span multiple columns to match its reward.
+<pre>{{BattlePassRewardPage/price|cols=1|star=yes|100}}</pre>
+
+== Example ==
+Here is a code example:
+<pre>
+{{BattlePassRewardPage
+<!-- first row -->
+| {{BattlePassRewardPage/reward|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|cols=5|rows=4|colors=#79C6FE,#2261FE|w=362|h=321|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} | w | w | {{BattlePassRewardPage/price}} | w | {{BattlePassRewardPage/price}} | w | {{BattlePassRewardPage/price}} |_
+|h|_
+<!-- second row -->
+| {{BattlePassRewardPage/reward|colors=#A1ACB2,#404145|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+|w
+| {{BattlePassRewardPage/reward|cols=5|rows=4|colors=#79C6FE,#2261FE|w=362|h=321|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} | w | {{BattlePassRewardPage/price|cols=5|star=no|Included}} |_
+|h|_
+<!-- third row -->
+| {{BattlePassRewardPage/reward|colors=#A1ACB2, #404145|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|cols=3|colors=#79C6FE,#2261FE|h=135|w=236|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} |w| {{BattlePassRewardPage/price|cols=3|11}} |w| {{BattlePassRewardPage/price|100}} |w| {{BattlePassRewardPage/price|cols=5|1000}} |_
+}}
+</pre>
+
+And this is its output:
+{{BattlePassRewardPage
+<!-- first row -->
+| {{BattlePassRewardPage/reward|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|cols=5|rows=4|colors=#79C6FE,#2261FE|w=362|h=321|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} | w | w | {{BattlePassRewardPage/price}} | w | {{BattlePassRewardPage/price}} | w | {{BattlePassRewardPage/price}} |_
+|h|_
+<!-- second row -->
+| {{BattlePassRewardPage/reward|colors=#A1ACB2,#404145|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+|w
+| {{BattlePassRewardPage/reward|cols=5|rows=4|colors=#79C6FE,#2261FE|w=362|h=321|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} | w | {{BattlePassRewardPage/price|cols=5|star=no|Included}} |_
+|h|_
+<!-- third row -->
+| {{BattlePassRewardPage/reward|colors=#A1ACB2, #404145|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|cols=3|colors=#79C6FE,#2261FE|h=135|w=236|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|w
+| {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|11}} |w| {{BattlePassRewardPage/price|cols=3|11}} |w| {{BattlePassRewardPage/price|100}} |w| {{BattlePassRewardPage/price|cols=5|1000}} |_
+}}
+
+<noinclude>
+[[Category:Template documentation]]
+[[Category:Battle Pass templates]]
+</noinclude>
