@@ -1,14 +1,26 @@
 __NOTOC__
-This template is used to build the different layouts of the Battle Pass reward pages in a semi-automatic way. It depends on several building blocks: [[Template:BattlePassRewardPage/element]], [[Template:BattlePassRewardPage/reward]] and [[Template:BattlePassRewardPage/price]].
+This template is used to build the different layouts of the Battle Pass reward pages in a semi-automatic way. It depends on several building blocks: [[Template:BattlePassRewardPage/element]], [[Template:BattlePassRewardPage/reward]], [[Template:BattlePassRewardPage/price]], [[Template:BattlePassRewardPage/image]] and [[Template:BattlePassRewardPage/notice]].
+
+In addition, [[Template:BattlePassRewardPage/header]] can be used to add a header just above it.
 
 == Usage ==
-The underlying structure supporting each layout is a standard html table, which is progressively built row by row by specifying the content of each cell. The template accepts up to '''80''' unnamed parameters. Each parameter specifies either a '''reward cell''', a '''reward-price cell''', an '''empty cell''' (for '''vertical''' or '''horizontal''' spacing) or a '''line break''' (end of row).
+The underlying structure supporting each layout is a standard html table, which is progressively built row by row by specifying the content of each cell. The template accepts 2 named parameters and up to 80 unnamed parameters. Each parameter specifies either a '''reward cell''', a '''reward-price cell''', an '''empty cell''' (for '''vertical''' or '''horizontal''' spacing), a '''banner cell''' or a '''line break''' (end of row).
+
+=== Named parameters ===
+The template accepts two optional named parameters:
+* <code>bgclass</code> allows to change the background image and color of the table by using a CSS class. The class needs to be defined in [[MediaWiki:BattlePassBackgrounds.css]], providing the image URL and the rgba color setting for the transparent overlay.
+* <code>w</code> allows to set the overall width of the table. Default value is 866px.
 
 === Empty cells ===
 Empty cells are needed to add horizontal or vertical spacing in the table, aligning reward cells and reward-price cells across multiple rows:
-* The character <code>w</code> adds a cell for horizontal spacing (fixed '''w'''idth);
-* The character <code>h</code> adds a cell for vertical specing (fixed '''h'''eight);
+* The character <code>w</code> adds a cell for soft horizontal spacing (<code>td</code> element with fixed width);
+* The character <code>h</code> adds a cell for soft vertical spacing (<code>td</code> element fixed height);
+* The character <code>H</code> adds a cell for rigid vertical spacing (<code>div</code> element fixed height);
+* The character <code>W</code> adds a cell for rigid horizontal spacing (<code>div</code> element fixed width);
 * A whitespace (<code> </code>) or a null parameter adds an empty cell without any fixed size. Its use is discoraged, as its final size will depend on the surrounding cells. Always use either the <code>w</code> or <code>h</code> option.
+
+Another special empty cell can be inserted using [[Template:BattlePassRewardPage/image]]. This template adds a large empty cell leaving the background image of the table visible. It is a key element to reproduce the layouts of Chapter 4. The two required parameters are the height of this cell and the columns it has to span.
+<pre>{{BattlePassRewardPage/reward|cols=13|h=542}}</pre>
 
 === Line break ===
 The underscore symbol <code>_</code> signals the end of a row in the table. The next parameters then becomes the first cell of a new row.
@@ -25,8 +37,14 @@ The following guidelines describe the typical uses:
 A reward price cell is specified using [[Template:BattlePassRewardPage/price]]. These cells are to be added in a new row, immediately below a row with reward cells. The main parameter is the price. An optional parameter can also be set to hide the star icon or let the cell span multiple columns to match its reward.
 <pre>{{BattlePassRewardPage/price|cols=1|star=yes|100}}</pre>
 
-== Example ==
-Here is a code example:
+=== Notice banner cell ===
+A notice banner cell is specified using [[Template:BattlePassRewardPage/notice]]. The main parameter is the text of the banner. Optional parameter can also be set to let the cell span multiple columns or change the background color.
+<pre>{{BattlePassRewardPage/notice|cols=5|color=#fc016b|text=Reach Lvl 11}}</pre>
+
+== Examples ==
+
+=== Chapter 2-3 ===
+Code:
 <pre>
 {{BattlePassRewardPage
 <!-- first row -->
@@ -60,8 +78,7 @@ Here is a code example:
 | {{BattlePassRewardPage/price|11}} |w| {{BattlePassRewardPage/price|cols=3|11}} |w| {{BattlePassRewardPage/price|100}} |w| {{BattlePassRewardPage/price|cols=5|1000}} |_
 }}
 </pre>
-
-And this is its output:
+Output:
 {{BattlePassRewardPage
 <!-- first row -->
 | {{BattlePassRewardPage/reward|Mystery Reward - Fortnite.png|link=Battle Pass}}
@@ -92,6 +109,87 @@ And this is its output:
 | {{BattlePassRewardPage/reward|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
 |_
 | {{BattlePassRewardPage/price|11}} |w| {{BattlePassRewardPage/price|cols=3|11}} |w| {{BattlePassRewardPage/price|100}} |w| {{BattlePassRewardPage/price|cols=5|1000}} |_
+}}
+
+=== Chapter 4 ===
+Code:
+<pre>
+{{BattlePassRewardPage|bgclass=BP-Ch4S1P3
+| {{BattlePassRewardPage/image|cols=13|h=542}}
+|_
+| {{BattlePassRewardPage/notice|cols=7|text=Reach Lvl 14}}
+| w
+| {{BattlePassRewardPage/notice|cols=5|text=Reach Lvl 20}}
+|_
+|H
+|_
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|cols=3|w=216|h=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|cols=3|top=8|10}}
+|_
+}}
+</pre>
+{{BattlePassRewardPage|bgclass=BP-Ch4S1P3
+| {{BattlePassRewardPage/image|cols=13|h=542}}
+|_
+| {{BattlePassRewardPage/notice|cols=7|text=Reach Lvl 14}}
+| w
+| {{BattlePassRewardPage/notice|cols=5|text=Reach Lvl 20}}
+|_
+|H
+|_
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|h=100|w=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|
+| {{BattlePassRewardPage/reward|cols=3|w=216|h=100|top=5|colors=#79C6FE,#2261FE|Mystery Reward - Fortnite.png|link=Battle Pass}}
+|_
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|top=8|10}}
+|
+| {{BattlePassRewardPage/price|cols=3|top=8|10}}
+|_
 }}
 
 <noinclude>
