@@ -9,7 +9,7 @@ THIS CSS STYLESHEET CONTAINS STYLES FOR Template:BattlePassRewardPage AND ITS SU
 	 color: #787B80;
 	 border-spacing: 0px;
 	 border-collapse: collapse;
-	 font-weight: bold; 
+	 font-weight: bold;
 	 text-align: center;
 }
 
@@ -20,6 +20,9 @@ THIS CSS STYLESHEET CONTAINS STYLES FOR Template:BattlePassRewardPage AND ITS SU
 	background-position: center;
     background-size: cover;
     box-shadow: inset 0px 0px 0px 1000px var(--BP-color-rgba);
+    border-collapse: separate;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* Common styling for price elements */

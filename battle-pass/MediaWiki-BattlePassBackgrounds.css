@@ -5,7 +5,12 @@
    Note that they are needed both in the desktop and mobile skin (hence this external stylesheet).
 -------------------------------------------------------------------------------------------------------*/
 
-.test {
+.BP-Ch4S1P2 {
+    --BP-image-URL: url("https://static.wikia.nocookie.net/fortnite/images/8/86/Selene_%28Full%29_-_Loading_Screen_-_Fortnite.png/revision/latest?cb=20221204112702");
+    --BP-color-rgba: rgba(83, 23, 28 ,0.3);
+}
+
+.BP-Ch4S1P3 {
     --BP-image-URL: url("https://static.wikia.nocookie.net/fortnite/images/7/73/Piper_Pace_%28Full%29_-_Loading_Screen_-_Fortnite.png/revision/latest?cb=20230825094730");
     --BP-color-rgba: rgba(144,46,161,0.3);
 }
