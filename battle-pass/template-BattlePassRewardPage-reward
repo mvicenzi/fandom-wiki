@@ -1,6 +1,7 @@
 <includeonly><!--
 --><td class="battle-pass-reward-cell" colspan="{{{cols|1}}}" rowspan="{{{rows|1}}}" style="height:{{{h|135}}}px; width:{{{w|110}}}px; max-width:{{{w|110}}}px; overflow:hidden; background: radial-gradient(circle, {{{colors|#A1ACB2,#404145}}});<!--
-adding vertical align except for smallest box -->{{#ifeq: {{{w|110}}}|110||vertical-align:bottom;}}"><!--
+adding vertical align except for smallest box -->{{#ifeq: {{{w|110}}}|110||vertical-align:bottom;}}<!--
+adding relative position from top -->{{#if:{{{top|}}}| position: relative; top: -{{{top}}}px|}}"><!--
 -->{{#ifeq: {{{w|110}}}|110<!-- if smallest box: force 110px as width, else let it fill up to the height
 -->|[[File:{{{1|Mystery Reward - Fortnite.png}}}|110x{{{h|135}}}px|link={{{link|Battle Pass}}}|class=reward-image]]<!--
 -->|[[File:{{{1|Mystery Reward - Fortnite.png}}}|{{{h|135}}}px|link={{{link|Battle Pass}}}|class=reward-image]]}}<!--

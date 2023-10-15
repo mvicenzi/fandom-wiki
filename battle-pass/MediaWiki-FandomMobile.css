@@ -1,13 +1,31 @@
-/* CSS STYLESHEET FOR THE MOBILE SKIN */
+/*==================================
+  CSS STYLESHEET FOR THE MOBILE SKIN
+====================================*/
+@import url("/load.php?mode=articles&articles=MediaWiki:BattlePassBackgrounds.css&only=styles");
 
-/* Template:BattlePassRewardPage table */
+/* ------------------------------------------------------------------
+  Mobile styling for Template:BattlePassRewardPage and its subpages
+---------------------------------------------------------------------*/
 .article-table-wrapper table.battle-pass tr, .article-table-wrapper table.battle-pass tr > td {
   border: unset;
   padding: 0;
 }
 
+.article-table-wrapper table.battle-pass-background {
+	background-image: var(--BP-image-URL);
+	background-position: center;
+    background-size: cover;
+    box-shadow: inset 0px 0px 0px 1000px var(--BP-color-rgba);
+}
+
 .article-table-wrapper table.battle-pass .battle-pass-hor-spacing .battle-pass-ver-spacing {
   margin: 0;
+}
+
+.article-table-wrapper table.battle-pass tr > td.battle-pass-image-cell {
+	height:542px;
+	width:100%;
+	overflow:hidden;
 }
 
 .article-table-wrapper table.battle-pass tr > td.battle-pass-reward-cell {
@@ -22,4 +40,14 @@
   padding: 0.2em;
   text-align: right;
   background: #1E1E1E;
+}
+
+.article-table-wrapper table.battle-pass .battle-pass-notice-div {
+	 font-size: 18px;
+	 text-align: left;
+	 padding-left: 5px;
+	 border: 1px solid #90136c;
+	 color: white;
+	 background-color: #fc016b;
+	 font-weight: bold;
 }

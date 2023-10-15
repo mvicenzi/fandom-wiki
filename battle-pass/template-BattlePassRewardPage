@@ -1,5 +1,5 @@
 <includeonly>
-<table class="battle-pass" style="width: 866px; height: 542px; color: #787B80; border-spacing: 0px; border-collapse: collapse; font-weight: bold; text-align: center" align="center"><tr>
+<table class="battle-pass {{#if:{{{bgclass|}}}|battle-pass-background {{{bgclass}}}|}}" style="width: {{{w|866px}}};" align="center"><tr>
 {{#ifeq: {{{1|x}}}|{{{1|y}}}|{{Template:BattlePassRewardPage/element|{{{1}}}}}}}<!--
 -->{{#ifeq: {{{2|x}}}|{{{2|y}}}|{{Template:BattlePassRewardPage/element|{{{2}}}}}}}<!--
 -->{{#ifeq: {{{3|x}}}|{{{3|y}}}|{{Template:BattlePassRewardPage/element|{{{3}}}}}}}<!--

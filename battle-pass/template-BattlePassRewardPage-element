@@ -3,7 +3,8 @@
 <!-- -->{{#switch: {{{1}}}
 <!-- --->|_=</tr><tr>
 <!-- --->|w=<td class="battle-pass-hor-spacing" style="width:16px";>&nbsp;</td>
-<!-- --->|h=<td class="battle-pass-ver-spacing" style="heigth:16px";>&nbsp;</td>
+<!-- --->|h=<td class="battle-pass-ver-spacing" style="height:16px";>&nbsp;</td>
+<!-- --->|H=<td class="battle-pass-ver-spacing"><div style="height:10px";></div></td>
 <!-- --->| =<td class="battle-pass-null-cell">&nbsp;</td>
 <!-- --->|<td class="battle-pass-null-cell">&nbsp;</td>
 <!-- -->}}

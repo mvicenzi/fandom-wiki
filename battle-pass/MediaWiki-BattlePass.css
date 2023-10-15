@@ -1,0 +1,81 @@
+/**===================================================================================
+THIS CSS STYLESHEET CONTAINS STYLES FOR Template:BattlePassRewardPage AND ITS SUBPAGES
+(see MediaWiki:FandomMobile.css for the corresponding mobile CSS)
+======================================================================================**/
+
+/* Styling of main table structure */
+.battle-pass {
+	 height: 542px;
+	 color: #787B80;
+	 border-spacing: 0px;
+	 border-collapse: collapse;
+	 font-weight: bold; 
+	 text-align: center;
+}
+
+/* Table background images (used for Chapter 4): the background image
+   and background color are set using CSS variables in MediaWiki:BattlePassBackgrounds.css */
+.battle-pass-background {
+	background-image: var(--BP-image-URL);
+	background-position: center;
+    background-size: cover;
+    box-shadow: inset 0px 0px 0px 1000px var(--BP-color-rgba);
+}
+
+/* Common styling for price elements */
+.battle-pass-price-cell {
+	background: #1E1E1E;
+	height: 35px;
+	text-align: right;
+	clip-path: polygon(0% 8%, 100% 0%, 100% 100%, 0% 100%);
+	position: relative;
+}
+
+/* Common styling for notice elements */
+.battle-pass-notice-div {
+	 font-family: 'Burbank Regular';
+	 font-size: 18px;
+	 text-align: left;
+	 transform: skewX(-10deg);
+	 padding-left: 5px;
+	 border: 1px solid #90136c;
+	 text-transform: uppercase;
+}
+
+/* Common styling for header elements */
+.battle-pass-header-div {
+	width: 100%;
+	max-width:866px;
+	display:inline-flex;
+	align-items: center;
+}
+
+.battle-pass-header-page-number {
+	width: fit-content;
+	font-weight: bold;
+	font-family: 'Burbank Bold';
+	font-size: xxx-large;
+	text-align: center;
+	text-wrap: nowrap;
+}
+
+.battle-pass-header-banner {
+	width: 85%;
+	margin-left: 10px;
+	padding: 5px 7px 5px 7px;
+	font-weight: bold;
+	font-style: italic;
+	clip-path: polygon(1% 0, 100% 0%, 99% 100%, 0 100%);
+	text-align: start;
+}
+
+/* Template:BattlePassRewardPage/reward: fix image positioning after
+   forcing height to fill the entire box (https://stackoverflow.com/a/41059954) */
+.reward-image {
+	margin-left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}

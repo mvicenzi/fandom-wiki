@@ -1,0 +1,11 @@
+/*-----------------------------------------------------------------------------------------------------
+   This stylesheet contains the definition of CSS variables used to style Template:BattlePassRewardPage.
+   Starting from Chapter 4, each reward page requires a different background image and overlay color.
+   These are set using "--BP-image-URL" and "--BP-color-rgba" respectively.
+   Note that they are needed both in the desktop and mobile skin (hence this external stylesheet).
+-------------------------------------------------------------------------------------------------------*/
+
+.test {
+    --BP-image-URL: url("https://static.wikia.nocookie.net/fortnite/images/7/73/Piper_Pace_%28Full%29_-_Loading_Screen_-_Fortnite.png/revision/latest?cb=20230825094730");
+    --BP-color-rgba: rgba(144,46,161,0.3);
+}

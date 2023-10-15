@@ -1,0 +1,6 @@
+<includeonly><!--
+--><td class="battle-pass-notice-cell" colspan="{{{cols|1}}}"><!--
+--><div class="battle-pass-notice-div" style="background-color:{{{color|#fc016b}}}; color:{{{tcolor|white}}}";>{{{text|Reach LVL 11}}}</div><!--
+--></td><!--
+--></includeonly><!--
+--><noinclude>[[Category:Battle Pass templates]]</noinclude>
